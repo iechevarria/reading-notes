@@ -95,14 +95,61 @@ that are new to me.
     Everything is broken. You're not making any money. You can't even forecast
     your sales, and people are so happy - I can't believe it"
 - 103 - "forget [for now] about the visionary, child-development stuff"
+- 105 - toys r us said they understood lego better than lego did
+- 106 - lego had demand for bionicle but couldn't fulfill it
+- 109 - ovesen set profit goal of 13.5% for any given product
+- 111 - 04: knudstorp pushed to standardize elements
+- 113 - 97-04: 6000 elements to 14200
+- 114 - 90% of elements used just once
+- 115 - in the 80s, designers had to abide by full manufacturing cost (fmc), but
+    in the late 90s, fmc was discarded, designers made more new pieces, costs up
+- 120 - 04: knudstorp appointed ceo, only one executive called to congratulate
+
+## 5: becoming customer driven
+- 124 - mads nipper joined in 1990, worked on in-store marketing in europe, made
+    case for d2c business, lego.com
+- 126 - 99: lego city was 1/8 revenue
+- 129 - of people who joined in the late 90s / early 00s: "They didn't know who
+    the core consumer was and they didn't understand the core business logic. It
+    was very, very hard."
+- 130 - late 90s: adults got back into lego b/c star wars and mindstorms (i also
+    suspect demographics, people who grew up w/ lego's golden age hit prime
+    earning years)
+- 132 - internally, lego thought adult fans few and not worth listening to,
+    discouraged direct contact with adult fans
+- 132 - afol 5% of company's revenue, but each outspent families 20x
+- 136 - research: lego kids normal w/ a little more tv + reading; lego kids also
+    played videogames, not mutually exclusive
+- 138 - narrowed customer profile: 5-9 yr old german boys who like construction
+    toys
+- 141 - overly beaurocratic process in lego: "Each step of the way, people had
+    to fill out multiple forms and checklists."
+- 143 - 04: lego city selling big again
+- 150 - retailers increasing bargaining power
+
+## 6: exploring the full spectrum of innovation
+- 155 - 03: bionicle 25% of total sales
+- 158 - targeted at kids who outgrew system sets, not ready for technic
+- 159 - made to be sold through nontraditional lego retaielrs like gas stations
+    and convenince stores
+- 160 - priced and promoted to sell throughout year
+- 163 - original bionicle names: axe, blade, flame, kick, hook, claw (oof lol)
+- 168 - comic books came out in off-season months jan + aug
+- 174 - bionicle was also cheaper, so filled demographic gap as well as seasonal
+    gap
+
 
 ## charts
 - 36 - revenue chart 1960-1993
 - 44 - revenue / new sets / profit chart 1994-1998
+- 148 - great timeline plotting 04-09 plan
+- 176 - lego innovation matrix, stinks imo, one axis is continuous, other
+    doesn't make spatial sense
 
 ## critiques
 - 61 - inscrutable product structure
 - 62 - some liberties with timeline
+- 134 - lego micro city called great but actually not fondly remembered
 
 ## things to look up
 - 48 - zowie intertainment, san mateo ca
