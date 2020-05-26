@@ -138,6 +138,100 @@ that are new to me.
 - 174 - bionicle was also cheaper, so filled demographic gap as well as seasonal
     gap
 
+## 7: fostering open innovation
+- 182 - people hacked mindstorms, lawyers thought it was a problem, engineers
+    thought it was a good sign; added "right to hack" to software license and
+    website
+- 184 - mindstorms was best-selling product in company history (by what measure,
+    until what year?)
+- 189 - mindstorms had little marketing support
+- 192 - lego got a lot of free labor when developing mindstorms v2 >:(
+- 194 - dc power pack and more memory were apparently budget busters (???)
+- 199 - nxt sold $30M in first year (seems kind of small); mindstorms + nxt sold
+    2M units total (again seems small?)
+- 199 - lego didn't expand team to non-employees until all major design
+    decisions locked in
+- 202 - architecture came out of initiative to launch low-cost, low-risk
+    experiments
+- 204 - first architecture set has instructions w/ photos of tower, brief
+    profile of architect, other details (still do this stuff - was this the
+    first example though? think discovery channel-lego collab sets might have
+    had the same thing)
+- 205 - exec (smith-meyer) and adam reed tucker (fan/designer) hashed out plan
+    over two days to make 1000 set run
+- 205 - lego architecture was pitched for souvenir shops, museum shops,
+    bookstore chains
+- 206 - lego architecture premium ($20 / 70pcs vs usual $7) shocked the board,
+    thought it was "crazy" (shows they thought of lego bricks as commodity,
+    understandably)
+- 207 - smith-meyer make initial packaging himself, tucker designed but also
+    set up printer to make boxes, set up licensing deal w/ sears tower owners
+- 207 - pieces showed up to tucker's door, he and his wife make sets by hand
+- 208 - 8 weeks start to finish for poc, total cost to lego $10k (extremely
+    dubious number imo, what about labor?)
+- 210 - lego architecture "very, very profitable" according to smith-meyer (why
+    does it cost more? b/c people will pay more)
+- 210 - 60% of buyers over 18, 15% never purchased lego before (!!!)
+
+## 8: attempting a disruptive innovation
+- 217 - 05: company thought digital bricks could replace plastic, wanted to
+    preempt
+- 218 - 350 stakeholders, 5 years, 3 missed deadlines for lego universe
+- 220 - mmo had potential to get huge in lego's eyes (they usually go bust, 
+    though, you're not going to make wow lol)
+- 221 - chose team from 51 different mmo studios
+- 222 - lego rfp was hundreds of pages, very few questions about game, indicated
+    lego didn't know what it wanted
+- 223 - lego demanded all bricks be accurate and detailed
+- 224 - contract provision demanded game be free of bugs
+- 226 - relied on volunteer labor again yikes
+- 227 - lego execs flew out every 6 weeks, encouraged turd polishing while core
+    rotted
+- 230 - $40 purchase + $15/mo too much for kids game
+- 231 - resubscription rate 87%, above industry standard
+- 232 - no mention of infiniminer in minecraft origin
+- 235 - talks about using minecraft and then 3d printing minecraft buildings -
+    i think this misses the point. ergonomics of building with lego bricks irl
+    is great, on a computer is very difficult and not exactly fun. largely b/c
+    many many many element types and ways they can go together. minecraft worked
+    b/c simplified to very few elements and allowed basically anything to
+    connect to anything. you can build more interesting things in lego more
+    quickly than minecraft + 3d printer
+
+## 9: sailing for blue ocean
+- 248 - anthropology consultants: "Social play, hierarchy, competition, mastery"
+    things that kids like to do that were "unmet consumer needs" - fortnite taps
+    into this very well; anecdotally i can say that i agree b/c videogames
+    largely lack appeal for me b/c i get this kind of stuff at work (where i am
+    also paid btw)
+- 248 - concept lab enlisted a stakeholder group of senior executives (lol is
+    this power base selling? making sure they're bought in immediately?
+    definitely looks like internal selling, which is good btw)
+- 249 - use posters to pitch new ideas, so concept is developed, not
+    presentation
+- 249 - again with the five- to nine-year-old boy
+- 251 - somebody floated lego water guns
+- 253 - again with mothers! mothers purchase board games, so do board games (
+    btw, what's TAM for board games? was this actually a good play?)
+- 257 - board game market heavily skewed toward christmas
+- 259 - lego got 13-45% of board game markets where it competed (!!!)
+- 260 - sales cooled in 2011-2012, declined afterward
+
+## 10: leveraging diverse and creative people
+- 265 - lego launches big bet line once a year (apparently atlantis was one)
+- 268 - t-shaped people: broad knowledge + small exceptional expertise, a
+    mckinsey thing
+- 273 - high conflict, fantasy predicted to bring success
+- 273 - lego city used to be low-conflict, realistic (imo now high conflict,
+    fantasy also w/ lines like swamp police and sky police ugh)
+- 276 - ninjago unstated goal: get so popular it's banned from schools
+- 278 - "testing was not only a creative tool, it was a persuading tool."
+- 278 - selecting lego lines is largely thinning of herd, very selective
+
+## 11: transforming lego
+- 286 - lego life of george: another ar precursor?
+- 288 - seems like lego universe may have been bad fit, they wanted to go darker
+    which isn't really appropriate for lego
 
 ## charts
 - 36 - revenue chart 1960-1993
@@ -150,6 +244,14 @@ that are new to me.
 - 61 - inscrutable product structure
 - 62 - some liberties with timeline
 - 134 - lego micro city called great but actually not fondly remembered
+- 186 - extreme liberties with timeline of "wisdom of the crowd"
+- 188 - nit: mindstorms doesn't so much stand out from mp3 players as it fits in
+- 190 - technic has "greater flexibility" than system - very loaded imo, ultra
+    debatable
+- 230 - floats idea that if lego let the game get dark enough, might have
+    expanded to new audiences (i think it would have done the brand harm)
+- generally - wish there was a section on lego friends or really anything
+    marketed to girls
 
 ## things to look up
 - 48 - zowie intertainment, san mateo ca
