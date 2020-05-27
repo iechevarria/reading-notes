@@ -1,4 +1,4 @@
-# capitalist realism: is there no alternative? (2009)
+# capitalist realism: is there no alternative? by mark fisher (2009)
 
 the following are my personal notes on capitalist realism. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.
