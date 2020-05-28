@@ -140,6 +140,108 @@ summary. instead, these are ideas that are new to me or that caught my eye.
     matter - need to generate enough revenue to keep up with debt repayment
 
 ## chapter 7: minsky beyond the critique of speculation
+- 76 - minksy into balance sheets, liquidity becomes issue: might need to sell
+    assets even if plan has good chance of working out over long term
+- 76 - solvency: long term ability for balance sheets to work out, fundamental
+    or timeless value (selling $10 bills for $5)
+- 78 - banks leverage off of uncertainty by offering its commitments as a
+    relatively safe asset, least uncertain; actors engage w/ bank b/c offers
+    best chance of survival
+- 78 - bank can borrow w/o a specific lender, its real lenders are people who
+    accept its promises as currency
+- 80 - leverage is procyclical, when things are good, get more credit -> more
+    success -> more credit ...
+- 80 - inability of one bank to pay obligations freezes other banks, etc, etc
+- 81 - bank of england became lender of last resort, provided liquidity when
+    others would not, prevented contagion
+- 82 - central banking is not exogenous, just another form of banking that can
+    safeguard system by selectively socializing risk
+- 83 - central banking very efficient b/c organically connected to lower level,
+    relies on existing connections; fortify nodes of payment system in crisis
+
+## chapter 8: practices of (central) banking, imaginaries of neutrality
+- 87 - modern time: distinguish between speculation "continuously making
+    distinctions between legitimate and illegitimate fictions"
+- 91 - minsky: solvency + asset values depend on liquidity (defined above), so
+    selective liquidity from central bank isn't neutral, means some value
+    perserved better than other -> moral + political suspicion
+- 92 - 19th century: central banks only about last-resort lending; 20th century:
+    banks only about interest rates + inflation
+
+## chapter 9: lineages of us financial governance
+- 94 - provision of liquidity insufficient in solvency crisis, underlying value
+    doubted
+- 95 - bank deposit insurance ended deleveraging motion, so now only leveraging
+    -> permanent inflationary pressure
+- 96 - attempts to limit bank credit creation only led to more shadow banking
+- 97 - arthur burns: inflation psychological, bound up with expectations
+- 98 - volcker was skeptical of monetarism as economic theory, but saw it as
+    useful tool to change expectations, a rhetorical device
+- 99 - monetarists argued against social engineering w/ financial policy
+
+## chapter 10: hayek and neoliberal reason
+- 101 - hayek thought centralized control was at root of econ problems of 70s
+- 103 - common critique: capitalist problems b/c "still" externally distorted
+    by politics; gains strength even when disproven b/c "evidence" that
+    corruption goes deeper
+- 104 - hayek not interested in entrepenuer, fixates on debtor in trouble
+- 105 - hayek critiques critical impulse: "shut up and do your job" -> still
+    at heart of neoliberalism
+- 106 - hayek emphasized systemic complexity to argue that central planning by
+    solving simultaneous equations impossible
+- 107 - hayek in favor of denationalization of money, let market decide on money
+    (this book seems to suggest we have done so already, the dollar is the
+    biggest currency on the block)
+- 107 - hayek wasn't a student of previous currencies i guess, modern role of
+    the state was the outcome of the evolutionary process described
+
+## chapter 11: neoliberal financial governance
+- 109 - volcker rate hike was speculative, intuited ordering potential
+- 110 - predictable that hike would cause shadow banking expansion; was wager
+    that rate hike would cause social/political change
+- 111 - fordist finance based on steady paychecks, neolib finance on precarity
+- 111 - person under neolib thinks of self as speculative unit, under pressure
+    to make decisions about self under uncertainty
+- 112 - large financial institutions want to transform their risks into dangers
+    of all others
+- 113 - neolibs ok with after-the-fact bailouts, switched from prevention to
+    containment
+- 114 - fed engaged directly with payments system b/c liquidity -> solvency
+- 115 - monetary management became rhetorical, inflation managed through
+    interest rate target announcements
+- 115 - neolibs: not that bubbles couldn't form, just that regulators were in no
+    better position to spot them than anyone else
+- 117 - beggs: "the bailout and not the crisis itself might be seen as the real
+    'Minksy moment'" -> minsky saw redistribution of liquidity as endogenous
+    to financial system
+- 118 - imminent failure activates patterns of normalization, might be in the
+    dark about why crisis hit, but we must protect the banks
+- 120 - risk management exists strong now, but it's not signal of post-neolib
+- 121 - too-big-to-fail treated as stabilization policy now, hence no prevention
+    of firms getting so big
+- 122 - critiques of austerity (destruction of value, short-termism) fail to
+    understand popular support
+- 123 - push for austerity co-opted by neolibs, driven by hayekian disdain for
+    the debtor, the critic
+- 125 - expanding student debt can be seen as punishment for being critic hayek
+    criticizes, for seeking knowledge without submitting to the economy
+
+## chapter 12: capital and critique in neoliberal times
+- 127 - elite control more symptom than cause of neolib
+- 127 - "we are currently seeing the bizarre emergence of an academic growth
+    sector devoted to explaining the failure of social reality to conform itself
+    to social scientists' fantasies ... - a curious imitation of the financial
+    sector's own ability to profit from failure"
+- 128 - state capture model plays into neolib reason, gives credibility to
+    crisis-free market economy; imagined purification at heart of neolib project
+- 129 - critique of speculation "appears more as a moral stance" than serious
+    attempt to understand capitalism
+- 130 - connolly: neoliberalism is doctrine "that fails to recognize or respect
+    the limits of economic self-organization"
+- 130 - latour: moderns have made things so well that they are "unhelpfully
+    invested in the imagined purity of their constructions"
+- 132 - critique is performance, to ask more of it confers upon it more
+    responsibility than it can handle, (don't ask me what to do)
 
 ## critiques
 - 7 - terrible sentence: "Plasticity refers to the constitutive character of
@@ -171,7 +273,18 @@ summary. instead, these are ideas that are new to me or that caught my eye.
     exerts organizing effects on the contingent processes from which it is born"
 - 70 - again with this weird stuff about premodern time, again european only
 - 71 - definition of chresmatics shows up 60 or so pages after first use
+- 85 - again purely from a european perspective, should be stated explicitly
+- 87 - "in premodern times any attempt to deal in futurity was suspect" - what
+    are interest-bearing loans? are they not future-facing? and what about
+    chinese buddhist monasteries with their perpetual endowments?
 
 ## things to look up
 - 22 - foucault's lectures at the college de france (1979, 1978, 1976)
 - 33 - luhmann on self-reference
+- 80 - post-keynesian institutionalism
+- 87 - self-liquidating money
+- 91 - wicksell
+- 91 - marginalist revolution
+- 129 - new materialism
+- 129 - connolly's 2013 work on self-organization
+- 130 - latour's 2013
