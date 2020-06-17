@@ -52,6 +52,52 @@ summary, these are just the ideas that are new to me or that stood out to me.
 - 53 - gold standard designed to prevent government over-spending, on the whole
     did work
 - 55 - commitment to convertability reduced exchange risk -> expansion of trade
+- 56 - currency convertability not threatened by democracy b/c limited suffrage
+    and weak unions; unemployment emigrated from europe to america
+- 56 - international trade was relatively non-competitive
+- 57 - gold standard was cheap and efficient credt-rating agency
+- 57 - european loans went to colonies which provided sheltered markets
+- 58 - london functioned as international central authority / bank
+- 59 - 'pound as good as gold' -> not convertability, but fiscal restraint
+- 59 - british farming destroyed by cheap american imports
+
+## 3. the quantity theory of money: from history to science
+- 61 - wicksell: money supply created by banks through loans, central bank has
+    indirect control by changing price of loans
+- 63 - fisher and cambridge qtm present transactional view of money
+- 64 - fisher and cambridge assume stable velocity of money, no change in demand
+    for money; assume stable ratio of reserves to deposits
+- 65 - qtm only valid with constant velocity
+- 68 - governemnts do not have direct control of money supply
+- 70 - wicksell adopted qtm for mechanism to manage economy fluctuations
+
+## 4. the theory of the fertile and barren state
+- 75 - keynes: limited effective demand prevents full potential output
+- 77 - increased wealth only became state policy in 17th-18th centuries (what???
+    this sounds unlikely! what about the mining operations in ancient greece)
+- 82 - smith: mercantalist wars fought for state and vested interests, bad for
+    the consumer
+- 83 - smith: britain should not be empire "and endeavor to accomodate her
+    future views and designs to the real mediocrity of her circumstances"
+- 86 - income tax gave secure revenue base, made voters want cheap government
+- 87 - british social reform driven by desire to compete with us, germany
+- 90 - us got into deregulation, free trade in 1940s when it displaced britain
+    as top dog
+- 91 - rothschilds said they didn't want to lend money for war, but states that
+    get in wars are strapped for cash and need to borrow, so kinda did
+- 93 - "The history of fiscal theory shows that, far from being the scientific
+    paragon it claims to be, it is highly ideological"
+
+## 5. keynes's intervention
+- 101 - central bank needs to create expectation that price level will not move
+    too much from price of standard composite commodity
+- 104 - austrians said 1929 crash caused by excessive credit creation, keynes
+    thought it was 1928 interest rate hike which collapsed healthy boom
+- 104 - schumpeter said let recession run its course, "Economists whose common
+    sense had not been completely destroyed by their theories rejected the
+    drastic cure of destroying the existing economy in order to rebuild it in
+    the correct proportions."
+- 106 - "There is no secure way of settling this argument."
 
 ## questions
 - 17 - what precise mechanisms cause business cycles? is it actually prudent to
@@ -67,3 +113,4 @@ summary, these are just the ideas that are new to me or that stood out to me.
 - 50 - walter bagehot's 1873 lombard street
 - 54 - cunliffe report of 1918
 - 55 - barry eichengreen on commitement to convertability
+- 109 - arthur pigou on idle capital
