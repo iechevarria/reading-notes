@@ -98,10 +98,145 @@ summary, these are just the ideas that are new to me or that stood out to me.
     drastic cure of destroying the existing economy in order to rebuild it in
     the correct proportions."
 - 106 - "There is no secure way of settling this argument."
+- 115 - keynes: deep recession might need negative interest
+- 116 - keynes: expectations about economy control expectations about money;
+    need to manage expectations about output + employment, need fiscal policy
+- 117 - hopkins: success of policy depends on model of economy in minds of
+    businesses
+- 119 - keynes: borrower expectation of risk as important as investor'ss
+- 119 - keynes: investment inverse to uncertainty -> increase demand for cash
+- 120 - keynes: investors do not know their risk, so subject to sudden collapses
+    when confidence gone
+- 120 - "What we think of as objectivity is trapped within the circle of
+    expectation"
+- 120 - "In a monetary economy, they [conventions and animal spirits] never
+    escape the circle of money to reach supposedly underlying 'fundamentals'."
+- 121 - keynes: money is "a subtle device for linking the present to the future"
+- 121 - financial institutions do not intermediate between savers and investors,
+    they provide liquidity when needed at a price
+- 124 - keynes wanted maximum output so we could get fully automated future
+- 124 - keynes: keep long-term interest rate continuously low so that people
+    don't wait for good rates
+- 125 - keynes: low interest rates alone not enough to recover from slump
+- 126 - keynes: during recession, create real resources like housing w/ state
+    (absolutely fire excerpt here)
+- 128 - keynes: replace gold w/ global reserve currency
+- 130 - new deal: "public works programmes were not backed by any theory which
+    showed why they were needed; the classical theory demonstrated they were
+    unnecessary and harmful"
+- 131 - keynes: keep banking under national control
+- 131 - keynes saw problem as unused capacity, said little about distribution
+
+## 6. the keynesian ascendancy
+- 138 - econs had hard time accepting full employment was not the norm, thought
+    general theory was really a special case
+- 140 - keynesian policy kept west from communism
+- 143 - us had a lot of automatic stabilizers (unemployment) between 1945-1961
+- 144 - stabilizers don't expand demand, just make recessions lighter
+- 146 - bank of england: change in money supply not rigidly linked to spending
+- 147 - only policy for full employment, stable prices was control over costs
+- 147 - gm, uaw linked wages to productivity, cost of living; german economy
+    wages set by national emplyer-union bargains
+- 148 - constraint on inflation was exchange rate
+- 156 - europe + japan had high growth b/c they had supply shortages, not demand
+    shortages b/c equipment destroyed in war; no keynesian solutions needed
+- 157 - capital had high margainal productivity, so high productivity growth;
+    allowed growth in real incomes while costs stayed stable
+- 159 - us trade surplus negative by end of 50s b/c more competitive performance
+    from europe + japan, commitment to stop communism
+- 160 - us 'lived beyond its means' and allowed other countries to run surpluses
+- 162 - "Anti-Keynesians who go on about inflation seem entirely oblivious to
+    the gains in welfare achieved in this period. But to them the microbe of
+    inflation has always been a greater evil than the scourge of unemployment"
+- 162 - attempt to turn keynesianism into growth policy may have killed it
+- 166 - 4x oil prices 73-74 has psychological impact, increasing inflation
+- 166 - probably excess demand in us that led to breakdown of bretton woods
+- 167 - keynesian policymakers didn't pay enough attention to supply side,
+    productivity increased more slowly than wages
+- 169 - balogh: collective bargaining not restrained by real resources
+- 170 - 68-75 had many shocks at once that would have tested any policy regime,
+    but led people to look for something else, so milton friedman got spotlight
+
+## 7. the theory and practice of monetarism
+- 174 - neoclassical synthesis based on two contradictory beliefs: optimizing
+    agent + wage / price rigidities
+- 174 - supply adjustments not important in great depression, relevant afterward
+- 176 - hayek thought keynesianism was beginning of totalitarianism
+- 177 - friedman said he was objective, author disagrees: "This is disingenuous.
+    The motivation for his work was thoroughly political. Friedman restarted
+    neo-classical economics in order to expel the expanded Keynesian state from
+    the economy."
+- 178 - friedman smoothed income over expected lifetime income
+- 179 - friedman denied speculative demand for money, said people would keep
+    cash balances at a minumum
+- 179 - "Inevitably, the empircal examiniation was inconclusive; it always is"
+- 183 - friedman assumed consumers would have adequate savings / access to
+    credit in downturns (bad assumption); failed to see money as store of value
+- 183 - "Friedman's weaknesses were overlooked because his theory served an
+    ideological purpose."
+- 184 - "Monetarism became fashionable because it was not the incumbent
+    philosophy in a time of crisis"
+- 187 - gradual disinflation didn't work, inflation reversed by shock therapy
+- 189 - incredible chart showing oil price and uk cpi inflation w/ oil price
+    leading inflation almost perfectly
+- 190 - fact that inflation dropped worldwide in the 90s regardless of policy
+    suggests structure of world economy made result
+- 190 - attention needed to both supply and demand
+- 192 - on laffer curve: "Their simplistic story, devoid of any empirical
+    evidence, fed the illusion that tax cuts would be self-financing"
+- 194 - friedman's agents had time lag, lucas eliminated time lag (very dumb)
+- 195 - lucas said economy always at full employment and unemployment was just
+    a change in equilibrium rate of employment (so 50% employment could be full)
+- 196 - keynes: conventions are not shortcuts to calculation b/c calculation is
+    often impossible
+- 197 - new keynesians accepted rational expectations hypothesis and so gave up
+    keynes's focus on uncertainty
+- 199 - woodward: new synthesis discarded keyne's insights on uncertainty +
+    instability; said micro should underpin macro while keynes disagreed
+- 202 - "One cannot survey the story of the unravelling of the Keynesian
+    revolution without being struck by the close link between economic theory
+    and political ideology"
+- 210 - lucas says policy can have real impact only if acts using information
+    not known to the public (lol just look at covid, p clearly false imo)
+- 211 - rational expectations simplifies computation b/c assumes all people have
+    same rationality, information, preferences; only need 1 person now
+
+## 8. the disablement of fiscal policy
+- 219 - on assertion that central banks saved global economy: "This is sloppy
+    journalism." -> neglects massive fiscal policy
+- 230 - fiscal multiplier underestimated b/c using pre-crash estimates
+- 231 - "entombed in tortuous econometrics and technical jargon", "This was as
+    near as their prose allowed to admitting that they had been using the wrong
+    model ... On such foundations policy was built and lives blighted"
+- 232 - 90% debt gdp barrier wrong, "Reinhart and Rogoff explained lamely"
+- 235 - non-eu govts can have central bank buy securities instead of individuals
+- 240 - blanchard + summers: policy that minimizes recession minimizes loss of
+    potential output
+- 241 - us was keynesian, had continued growth despite rhetoric for austerity
+- 245 - "In reality, the only deficits the deficit-hawks really mind about are
+    deficits incurred to protect the poor. The wealthy have never been against
+    tax cuts for themselves, even if this widens the deficit; and their
+    economist friends have been busy demonstrating what wonderful multipliers
+    are available for the economy if governments take this course. To cut the
+    deficit for the poor and expand it for the rich - what more could one ask of
+    government fiscal policy?"
+- 246 - pettifor: bond market keeps govt honest
+
+## 9. the new monetarism
+- 250 - qe boosts asset prices, allow mortgage extension to finance higher
+    consumption; higher share prices -> increase wealth -> increase spending
+- 252 - central bank commitment to low inflation may not have caused low
+    inflation, more likely price drops b/c labor mkts expanded to asia
 
 ## questions
 - 17 - what precise mechanisms cause business cycles? is it actually prudent to
     look at long-term trends as cycles?
+- 154 - figure 12 looks very suspect to me
+- 166 - how much inflation needs to happen to be noticed? wrt to oil prices, did
+    sudden spike cause high inflation in 70s b/c so many people saw a major
+    commodity get more expensive?
+- 204 - fig 20 -> is it possible for these slopes to vary over time, become one
+    another?
 
 ## things to look up
 - 25 - george friedrich knapp 1905 on chartalism
@@ -114,3 +249,11 @@ summary, these are just the ideas that are new to me or that stood out to me.
 - 54 - cunliffe report of 1918
 - 55 - barry eichengreen on commitement to convertability
 - 109 - arthur pigou on idle capital
+- 131 - jacob viner on full employment
+- 150 - nicholas kaldor on manufacturing
+- 158 - abramovitz on rapid growth
+- 160 - leffingwell on america driving international growth
+- 187 - david laidler on 80s recession
+- 187 - patrick minford on disinflation
+- 235 - stiglitz 2014 paper on idle resources
+- 251 - marshall-lerner condition
