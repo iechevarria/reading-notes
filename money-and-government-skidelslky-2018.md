@@ -227,6 +227,121 @@ summary, these are just the ideas that are new to me or that stood out to me.
     consumption; higher share prices -> increase wealth -> increase spending
 - 252 - central bank commitment to low inflation may not have caused low
     inflation, more likely price drops b/c labor mkts expanded to asia
+- 259 - amount of money spent affects prices, not amount of money created (does
+    this mean asset prices are doomed to fall?); qe depended on wealth effect,
+    not direct causation; keynes would say fiscal policy is the answer
+- 263 - qe was expected to boost amount raised from public markets
+- 266 - negative rates will cause flight into cash
+- 269 - bank of england in 2016 said asset purchases on their own didn't boost
+    activity, but their effect on sentiment did
+- 272 - richer households less likely to consume, qe enriched wealthy households
+    -> smaller impact on overall spending
+- 273 - "In practice, the [central] bank's accountability is to the financial
+    system, which means to existing asset owners"
+- 275 - "But the ECB's passivity also reflected a particular historical mindset.
+    For the ECB, heir to the Bundesbank, the supreme danger to avoid was a
+    repetition of the hyperinflation of the early 1920s. By contrast, it was the
+    Great Depression ... which had the biggest historical impact on Ben Bernanke
+    and other US policymakers."
+- 275 - "Governments whose policies fail to achieve their promised results
+    *always* claim that they were pursuing policies that would have succeeded
+    had it not been for unexpected 'headwinds'"
+- 277 - "QE offers as good an experiment in macroeconomic policy as we are
+    likely to get, which is not that good. Attempting an empirical assessment of
+    its effects is bedevilled by the omnipresence of counterfactuals"
+- 278 - 08 collapse showed you need to do more than keep price stability
+- 284 - bubbles do not sort themselves out
+- 287 - if qtm were correct, there would be no need for fiscal policy, but it
+    has a lot of leaks so "dogmatic rejection of fiscal policy seems
+    indefensible to me on scientific grounds"
+
+## 10. distribution as a macroeconomic problem
+- 292 - on distribution: "A clearer example of economics tracking politics would
+    be difficult to find."
+- 294 - monopolized scarce resources give opportunities to extract rents
+- 302 - chris giles tried to discredit piketty, "His attempt to discredit
+    Piketty failed, but it shows Piketty had hit a raw nerve"
+- 305 - financialization of economy destabilizes by allowing debt to replace
+    earnings
+
+## 11. what was wrong with the banks?
+- 307 - Volcker in 2011: "It should be clear that among the causes of the recent
+    financial crisis was an unjustified faith in rational expectations, market
+    efficiencies, and the techniques of modern finance"
+- 310 - "Central bank models were based on a neo-classical fantasy world"
+- 313 - efficient market hypothesis is trash; "A dose of realism, or even a
+    cursory knowledge of history, would have told these savants that markets
+    do not work in this way"
+- 313 - "despite its garling theoretical gaps, the EMH became the intellectual
+    underpinning of financial market regulation"
+- 315 - value at risk models (VaR) -> "VaR measures assume that we have the
+    correct probabilities for all future outcomes. This is a risible assumption"
+- 315 - "humans do not face a knowable distribution of probable outcomes; we
+    face genuine, radical uncertainty
+- 319 - free capital flow between nations might not be good, even IMF says so
+- 323 - assumed that mbss were far safer than individual mortgages b/c they were
+    independent of one another; terrible assumption, heavily correlated
+- 324 - far more credit default swaps than underlying assets, so no way to get
+    paid back
+- 325 - banks forgot insurers could go bust, insufficiently offloaded risk
+- 329 - credit rating agencies are paid by people getting rating, so bad
+    incentives; also didn't recognize correlation in securitized products
+
+## 12. global imbalances
+- 336 - money was flowing from capital-poor country (china) to capital-rich
+    one (us) -> this was supposed to be impossible
+- 338 - dollar is reserve currency which explains both accumulation by china and
+    low fed interest rates
+- 339 - pettis: china under-consumes b/c unequal income -> treasury accumulation
+- 341 - "The structural flaw in the EU's Single Currency Area was obvious from
+    the start; it was a monetary union without a political union."
+- 343 - "As with any dispute between debtors and creditors, appointment of blame
+    is, ultimately, a value judgement, which cannot be settled by accumulating
+    facts"
+- 344 - economists advocated for deregulation b/c EMH -> credit expansion
+    instead of public redistribution -> bad bank behavior -> 08 collapse
+
+## 13. reinventing political economy
+- 359 - "Few economists can resist a correlation which seems to confirm their
+    theories" -> better explanation for great moderation is cheap chinese goods
+- 360 - "the trade-off between inflation and unemployment ... should be a matter
+    of political judgement" + central banks shouldn't control interest rates
+    (yikes!!! not great!!! very much disagree there!!!)
+- 366 - most credit created by banks used to speculate on assets instead of on
+    producing new things
+- 367 - "An aspect of financialization little discussed in polite circles is the
+    extent of its criminality" -> middle eastern and russian cash
+- 373 - "An economics which both minimizes the possibility of non-material forms
+    of flourishing and fails to deliver its own promised goods is ripe for
+    populist demolition"
+- 373 - a market usually needs a state to curb its excesses, but "we have been
+    trying to create a unified global market by diminishing national states
+    without setting up a global state, or even recognizing the need for one"
+- 374 - neoliberal statecraft: "It scrapped or emasculated the protectionist
+    features of the post-war order which made it politically acceptable.
+    Enslaved by utopian theories and ignorant of history, the ideologues of the
+    free market have been preparing the ground for the Apocalypse"
+- 375 - first wave of globalization rolled back in 1914
+- 377 - eurozone created in way that "reflected the view of neo-liberal
+    economics that markets needed rules, not states"
+- 377 - tim congdon says free trade is good, but "This is bad history, since
+    many nations have prospered under Protection"
+- 377 - arguments for free trade focus on long run: "It forgets that what
+    happens in the short-run can blight the lives of a generation and, beyond
+    that, those of their children"
+- 378 - free trade model assumes full employment, but unemployment exists ->
+    argument against free trade. "This is a good argument"
+- 379 - "We should not forget that globalization was *intended* to depress wage
+    growth in the developed world"
+- 384 - mainstream economics lacks political legitimacy -> "mainstream economics
+    has been indifferent to levels of unemployment and to the growth of
+    inequality, holding that these may be the justified consequences of market
+    competition, the 'correction' of which would only make things worse"
+- 386 - "the attempt tot bolt macroeconomics on to the classical microeconomics
+    must be judged a failure" micro -> how markets work, macro -> how they fail
+- 389 - behavioral economics: "It surely doesn't need to be emphasized that such
+    revelations come as surprises only to those who have literally taken leave
+    of their senses."
 
 ## questions
 - 17 - what precise mechanisms cause business cycles? is it actually prudent to
@@ -257,3 +372,23 @@ summary, these are just the ideas that are new to me or that stood out to me.
 - 187 - patrick minford on disinflation
 - 235 - stiglitz 2014 paper on idle resources
 - 251 - marshall-lerner condition
+- 280 - keynes's treatise on money
+- 289 - walter scheidel the great leveler (2017)
+- 290 - pigou's wealth and welfare
+- 294 - j a hobson's physiology of industry (1889), the problem of the
+    unemployed (1896), the economics of distribution (1900)
+- 302 - thomas palley on piketty, asset price inflation, and debt
+- 303 - james galbraith on piketty
+- 311 - where does money come from?
+- 340 - raghuram rajan on inequality
+- 353 - mariana mazzucato on state role in innovation
+- 358 - simon wren-lewis on central banking + fiscal policy
+- 366 - adair turner on financial intensity
+- 370 - wassily leontief on technological unemployment
+- 373 - karl polanyi on greater marketization and state protection
+- 375 - dani rodrik on impossible trinity
+- 376 - paul de grauwe on single currency area
+- 378 - ha-joon chang on protection in japan
+- 383 - harold james on disintegration
+- 388 - robert shiller on EMH
+- 389 - roman frydman and michael g goldberg on psychological factors
