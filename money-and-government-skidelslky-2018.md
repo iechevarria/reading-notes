@@ -2,7 +2,7 @@
 
 - author: robert skidelsky
 - year: 2018
-- isbn: 978-0-300-24032-0
+- isbn: 9780300240320
 
 the following are my personal notes on money and government. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.

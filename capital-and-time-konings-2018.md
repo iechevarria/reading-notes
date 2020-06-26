@@ -1,4 +1,8 @@
-# capital and time: for a new critique of neoliberal reason by martijn konings (2018)
+# capital and time: for a new critique of neoliberal reason
+
+- author: martijn konings
+- year: 2018
+- isbn: 9781503604438
 
 the following are my notes on capital and time. these do not constitute a
 summary. instead, these are ideas that are new to me or that caught my eye.

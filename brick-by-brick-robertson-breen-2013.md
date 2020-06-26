@@ -1,4 +1,8 @@
-# brick by brick: how lego rewrote the rules of innovation and conquered the global toy industry by david c. robertson with bill breen (2013)
+# brick by brick: how lego rewrote the rules of innovation and conquered the global toy industry 
+
+- author: david c. robertson with bill breen
+- year: 2013
+- isbn: 9780307951618
 
 the following are my personal notes on brick by brick. they are not a summary of
 the book. instead, they're a collection of facts/ideas that caught my eye or
