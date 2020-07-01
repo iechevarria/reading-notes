@@ -8,7 +8,6 @@ the following are my personal notes on money and government. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.
 
 ## introduction
-
 - 4 - stagnation of real earnings was deep cause of gfc, caused debt build-up
 - 6 - economic ideas matter more now b/c economists make economic policy
 - 11 - central question is what it always has been in political economy: what
