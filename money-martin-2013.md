@@ -46,9 +46,92 @@ to me.
     private money was against the state
 - 71 - 40% of russian trade with private money by 1997, many private tokens
 - 72 - private money a threat: credito -> continental dollar -> political revolt
+- 78 - guanzi: money a tool of govt to regulate people's activity; basically had
+    quantity theory of money
+- 79 - seigniorage = money printer go brrr
+- 79 - guanzi: sovereign should retain sole control of money, otherwise it loses
+    power
 
+## 5. the birth of the money interest
+- 84 - after ad 300, banks disappeared from rome: not enough political / social
+    stability for them to work (cough cough)
+- 88 - crying down: saying coin is now worth less than used to be; distinct from
+    debasement which is using cheaper metals for same value coin
+- 92 - oresme, trying to convince sovereign not to touch currency too much:
+    money belongs to the rich because they use it
 
-## questions / critiques
+## 6. the natural history of the vampire squid
+- 103 - most risk-averse banking is short-term trade financing (sounds like
+    mesopotamia in debt)
+- 106 - bill of exchange: money token that was accepted at merchant houses + was
+    denominated in abstract unit made by bankers, écu de marc; needs to be
+    exchanged into sovereign currencies
+
+## 7. the graet monetary settlement
+- 115 - bankers needed a lot of trust to operate private money network; bankers
+    have no force to threaten with -> exclusive club
+
+## 8. the economic consequences of mr. locke
+- 130 - reward for olympic games was just crown of palm leaves, so idea that
+    money has value just by convention came naturally
+- 131 - locke: rights exist by nature, so theory of money had to be altered to
+    be somehow natural also
+- 134 - mandeville: individual greed -> aggregate prosperity
+- 135 - "The new world being forged by this corporate and financial revolution
+    clamoured to be explained and justified - and Mandevill's outrageous
+    hypothesis appeared to do both at once"
+- 136 - smith: vision of econ system that trended to equilibrium; gave
+    justification for monetary society in econ + political terms
+
+## 9. money through the looking-glasss
+- 140 - respect for contract alone not enough for monetary society, but also
+    absolutists wrt to contracts foment revolution (in context of versailles)
+- 144 - locke said money just a measurement of previous metal -> "Locke's
+    understanding of money led not to a new age of objectivity in economic
+    affairs" -> actually just arbitrary prejudices -> "it covered their tracks
+    with a veil of apparent scientific objectivity" (sounds like ideology)
+- 145 - locke understanding of money paved way to market above all else ->
+    paved way for moral disaster by policy makers
+- 149 - excellent description of irish potato famine and economic reasoning for
+    allowing it to happen; ecconomics claimed to reduce "moral and political
+    justice to the mechanical application of objective scientific truths"
+
+## 10. strategies of the skeptics
+- 152 - midas myth about reducing everything to single dimension, money
+- 155 - money is paradox: both relies on other people but also isolates us by
+    reducing our relationships to financial
+
+## 11. structural solutions
+- 168 - law: sovereign issuer needs to be able to vary supply of money, so don't
+    use gold standard
+- 175 - law: make money users explicitly bear risks instead of having sovereign
+    promise to pay; money was then a claim to the tax flows which are based on
+    productivity which is uncertain -> money became equity, not debt
+- 183 - state should keep an eye on structure of financial obligations, make
+    sure it's fair -> need politics to determine that -> need law to enact
+
+## 12. hamleet without the prince: how economics forgot money
+- 186 - summers: econ had nothing useful to say about great recession
+- 187 - summers: econ got very distracted
+- 189 - many top banks were quaker firms; neat anecdote about bill brokers
+- 194 - bank needed money, raised money by selling equity, but saw sell-off b/c
+    company w/ similar name went bankrupt
+- 198 - bagehot: trust at center of banking system
+- 201 - bagehot: central bank is uniquely able to stabilize, effectively manages
+    all the money
+- 202 - central bank lends at last resort, prevents panic from self-fulfilling
+- 203 - bagehot: last resort lend at high interest to prevent moral hazard
+
+## 13. ...and why it is a problem
+- 208 - money not a simple commodity b/c demand for it goes up in crisis
+- 212 - keynes: supply creates its own demand (say's law) -> false b/c people
+    save cash
+- 221 - macroecons tools didn't include money, abstracted away from money
+
+## 14. how to turn the locusts into bees
+- 226 - solvent: assets > liabilities
+
+## questions / critiques / comments
 - 36 - realistic depiction of ancient greek society? seems dicey
 - 52 - weird description of separate spheres of value
 - 53 - difficult to parse description of economic value
@@ -61,13 +144,38 @@ to me.
 - 64 - where is the state in all this? no citations either
 - 73 - james madison so wrong it hurts: if people were good, government wouldn't
     need to exist -> wrong wrong wrong, if people were good, government wouldn't
-    need to exist *for markets to work*
+    need to exist *for markets to work*. also govt helps with uncertainty -
+    unless angels are omniscient, still useful
+- 75 - does sovereign need credit?
+- 81 - great to see mesopotamia representation
+- 84 - "coinage forgotten as means of representing money" idk seems iffy - in
+    debt, graeber describes debts denominated in long-lost currencies. does this
+    just mean people didn't have coins?
+- 90 - "why tax when you can print money?" -> this book shows that happened!
+- 123 - verbose opening to chapter, again verbose on 127
+- 137 - uncritical citation of reinhart and rogoff
+- 141 - debt explores idea of relationships transforming into financial
+    obligations better imo
+- 180 - too abrupt end to a section, didn't finish telling the story - i get the
+    weaving here, but i just want to know what happened
+- 182 - "only democracy" can decide what's fair, can make decisions that last ->
+    idk dude, i like democracy enough too, but this is pretty bold
 
 ## things to look up
 - 4 - william henry furness iii and the yap people
 - 12 - george dalton on barter
-- 12 - charles kindleberger's 1993 financial history of western europe
-- 13 - thomas smith's 1832 essay on currency and banking
+- 12 - charles kindleberger 1993 financial history of western europe
+- 13 - thomas smith 1832 essay on currency and banking
 - 38 - maurics bloch and jonathan parry on social spheres
 - 69 - credito in argentina
 - 71 - the vanishing rouble
+- 77 - guanzi
+- 91 - dauphin charles 1360 a treatise on the origin, nature, law, and
+    alterations of money
+- 112 - montesquieu the spirit of the laws
+- 153 - michael sandel what money can't buy
+- 153 - robert and edward skidelsky how much is enough?
+- 166 - john law money and trade considered, with a proposal for supplying the
+    nation with money
+- 218 - james tobin 1969 academic finance
+- 220 - mervyn king 2001 on absence of money from econ
