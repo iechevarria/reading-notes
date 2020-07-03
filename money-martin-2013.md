@@ -130,6 +130,56 @@ to me.
 
 ## 14. how to turn the locusts into bees
 - 226 - solvent: assets > liabilities
+- 229 - bear stearns went bust, wall st didn't freak out -> when lehman bros
+    started failing, wall st thought you couldn't "shoot the brothers" -> govt
+    let it fail -> widespread panic
+- 230 - uk nationalization of northern rock looks like good policy now
+- 230 - sovereigns put massive amounts of money into banks, total support ~25%
+    of global gdp $14T
+- 232 - govt became loss-bearer of last resort, not lender of last resort
+- 233 - increased austerity b/c bailout cost
+- 233 - banks got something for nothing
+- 235 - banks changed in the late 70s: instead of allocating credit and keeping
+    loans on their own balance sheets, they securitized loans, facilitating
+    lending between entities
+- 237 - wild description of lending chain
+- 239 - traditional credit market transactions have fixed lengths, no guarantee
+    of ability to sell prematurely
+- 240 - new credit market obfuscated this w/ counterparties, promised cash on
+    demand
+- 240 - shadow banking had 2x balance sheet of traditional banking in 2008
+- 241 - fed balance sheet expanded, analysts though inflation had to go up, but
+    the money wasn't new, it had been in shadow system all along (interesting
+    assertion, haven't heard this one before, though idk how true it is)
+
+## 15. the boldest measures are the safest
+- 245 - glass steagall said don't mix investment banking w/ normal deposits and
+    lending; mcfadden act said don't open branches in different states -> 
+    effictively size cap; both restrictions gone in the 90s
+- 249 - money doesn't need to be fixed to be just, needs to be democratically
+    flexible
+- 250 - banks have short-term liabilities of fixed nominal value and long-term
+    assets of uncertain nominal value -> no liquidity transformation occurs,
+    instead about synchronizing payments in / out of balancce sheets -> banks
+    fail when confidence in ability to do this wanes
+
+## 16. taking money seriously
+- 262 - locke probably motivated by sincere beliefs in Liberalism
+- 263 - naturalistic reasoning makes it difficult to think critically about a
+    topic (money in this case)
+- 263 - caliming to explain social truths as objective truths of nature is self-
+    reinforcing
+- 265 - too much debt now -> maybe inflate it away or restructure
+- 265 - ultimate goal of monetary policy isn't inflation / financial stability
+    but a just and prosperous society
+- 266 - monetary policy is political
+- 266 - banking is like civil service b/c money is sovereign tool -> banks
+    should be subject to "guidance of democratic politics"
+- 267 - wants less intervention by restricting banks to be more stable
+- 268 - narrow banking would stop money from permeating everything (very wishful
+    thinking imo, still have uncertainty and cultural stuff)
+- 269 - economics is political and moral, need to recognize that
+- 272 - if money becomes useless to its users, they'll come up w/ alternative
 
 ## questions / critiques / comments
 - 36 - realistic depiction of ancient greek society? seems dicey
@@ -160,11 +210,13 @@ to me.
     weaving here, but i just want to know what happened
 - 182 - "only democracy" can decide what's fair, can make decisions that last ->
     idk dude, i like democracy enough too, but this is pretty bold
+- 305 - phenomenal bibliography, I wish more books had ones like this
 
 ## things to look up
 - 4 - william henry furness iii and the yap people
 - 12 - george dalton on barter
-- 12 - charles kindleberger 1993 financial history of western europe
+- 12 - charles kindleberger 1993 financial history of western europe; 1978
+    manias, panics, and crashes
 - 13 - thomas smith 1832 essay on currency and banking
 - 38 - maurics bloch and jonathan parry on social spheres
 - 69 - credito in argentina
@@ -179,3 +231,16 @@ to me.
     nation with money
 - 218 - james tobin 1969 academic finance
 - 220 - mervyn king 2001 on absence of money from econ
+- 251 - laurence kotlikoff limited purpose banking
+- 305 - charles goodhart 1998 the two concepts of money
+- 305 - geoffery ingham 2004 the nature of money
+- 305 - richard seaford 2004 money and the ancient greek mind
+- 305 - l randall wray 2004 credit and state theories of money
+- 305 - philip grierson 1977 the origins of money
+- 305 - herbert frankel 1977 two philosophies of money
+- 306 - albert hirshman 1977 the passions and the interests
+- 306 - john smithin 2000 what is money
+- 306 - james buchan 1997 frozen desire
+- 306 - david woodruff 1999 money unmade
+- 306 - jackson, werner, greenham, ryan-collins 2012 where does money come from?
+- 306 - philip coggan 2011 paper promises
