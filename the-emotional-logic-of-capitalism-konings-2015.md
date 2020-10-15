@@ -71,8 +71,35 @@ summary. instead, these are ideas that are new to me or that caught my eye.
 - 33 - for affect to build, social life needs to be plastic - not so weak any
     outside influence will destroy its structure and not so strong it cannot
     change
+- 35 - we take on roles when useful, but there are so many that we have to
+    disavow some b/c at the moment we don't need alternative perspectives
 - 35 - complexity of modern life means we don't know what's causing our problems
     so we often double down on existing routines / meanings that promise relief
+- 36 - most often take on roles that validate our previous choices; any others
+    would increase anxiety in short term
+- 36 - authority comes from freedom b/c we see our limits, feel vulnerability
+- 37 - when we feel anxiety about money, we move to get more; we don't
+    reconsider our relationship to money, we intensify it
+- 39 - traditional sovereignty ineffective beyond physical reach
+- 39 - modern power comes from decentralization but points of centralization
+    arise organically
+
+## chapter 3: icon and economy
+- 43 - economy used to refer to practical applied knowledge; then came to mean
+    large-scale general order
+- 43 - chresmatics, making money, not originally considered economy
+- 44 - christian thinkers separated god's substance and practical activity
+    between formal theology and economy
+- 44 - christian conception of icon only created in response to accusations of
+    idolatry
+- 45 - icon is a mere symbol whose nothingness serves to remind insufficiency of
+    earthly life
+- 45 - effect of sharper distinction between divine / earthly was intensified
+    regulation of humanity by human-made symbols; paradoxical
+- 46 - church's stance on usury motivated by fact that moneylending eroded
+    pastoral economy; much more concerned with common people seeing usury than
+    financiers lending to each other
+- 47 - church: chresmatics did not offer economy 
 
 ## things to look up
 - 16 - viviana zelzier on disembedding narrative
