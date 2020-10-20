@@ -100,6 +100,34 @@ summary. instead, these are ideas that are new to me or that caught my eye.
     pastoral economy; much more concerned with common people seeing usury than
     financiers lending to each other
 - 47 - church: chresmatics did not offer economy 
+- 48 - adam smith's work on money analagous to church explanation of icons:
+    awareness of money's constructed nature in no way diminished affective force
+- 50 - iconoclasm doesn't annihilate economy, requires us to see status as human
+    constructs -> become ever more embedded in life
+
+## chapter 4: semiotics of iconocity
+- 57 - icons take on anchoring role b/c they concentrate meaning of metaphor w/o
+    explaining their history of how they work - a forgetting happens that isn't
+    about loss of memory but of memorization + immediate identification
+- 57 - consolidation means we can deploy signs immediately but beyond our
+    consciousness
+- 57 - impossible to unilaterally impose framework; need to link up interests w/
+    other participants' identities
+- 58 - once an icon is established, best way to claim authority is to link up w/
+    it; metaphors most effectuve when they invoke institutionalized patterns;
+    icon becomes "obligatory passage point"
+- 58 - indexing practices to icons lets us tap into unquestioned legitimacy
+- 60 - polanyian (and austrian) critique relies on credit expansion, but this
+    portrayal of debt as derivative is wrong; credit preceded money, social
+    obligation came first
+- 60 - money is translation technology to make promises transferable and to
+    allow them to circulate
+- 61 - money: "we have to need to conceptualize it as a complex cluster of
+    commitments but can approach it as an independent source of social power";
+    credit them seems to come from moneys
+
+## general comments
+- 56 - there's an example here, would have been great to have more
 
 ## things to look up
 - 16 - viviana zelzier on disembedding narrative
