@@ -270,7 +270,7 @@ summary. instead, these are ideas that are new to me or that caught my eye.
 - 96 - i am but clay, no platonic ideal within me
 
 ## things to look up
-- 16 - viviana zelzier on disembedding narrative
+- 16 - viviana zelizer on disembedding narrative
 - 34 - rose 1999 on governance through risk
 - 93 - david riesman on post-new deal era
 - 131 - lots of names:
