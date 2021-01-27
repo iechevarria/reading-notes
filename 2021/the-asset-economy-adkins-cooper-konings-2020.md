@@ -128,7 +128,26 @@ these are the ideas that caught my eye.
     remains, like an underwater mortgage but undischargeable
 - 73 - young graduates often drained of liquidity by ed debt, depriving them of
     opportunities for new investment + changing course
+- 75 - future doesn't disappear under capitalism, southwood calls it frenetic
+    inactivity or non-stop inertia 
+- 75 - "What we end up with is an exhausting, nerve-racking combination of need
+    for constant vigilance in combination with the absence of clear rewards."
+- 75 - idea that generation locked out of asset ownership is inaccurate when you
+    consider intergeneration transfers
+- 76 - inheritance + living transfers important outside of even 1%
 
+## conclusion
+- 82 - minsky was post-foundationalist, moved away from idea that there's true/
+    underlying value
+- 85 - charge of commidification primarily cultural, accepts orthodox econ but
+    with negative normative twist
+- 87 - exclusion of housing from inflation doesn't match experience
+- 89 - large parts of the electorates invested in ongoing asset price inflation,
+    tax concessions, minimal inheritance tax -> housing generator of inequality
+- 90 - piketty says it's natural economic laws, but it's better understood as
+    a function of specific interests of specific constituencies / class; hard to
+    cater to middle class without preventing entry of rest of society
+- 91 - no easy way out of the asset economy
 
 ## things to look up
 - 14 - keen 2011 on why it's dumb to use barter economy model
@@ -145,3 +164,7 @@ these are the ideas that caught my eye.
 - 46 - lazonick 2009 on stock option compensation
 - 68 - adkins 2019 on housing purchase
 - 72 - tadiar 2012, 2013 on futures commodified
+- 75 - southwood 2011 non-stop inertia
+- 75 - elliot 2018 menu of bad options
+- 86 - lury 2013, et al 2012 topological inequality
+- 86 - muniesa 2011 value as practice
