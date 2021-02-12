@@ -1,8 +1,9 @@
-# money: the unauthorized biography - from coinage to cryptocurrencies
-
-- author: felix martin
-- year: 2013
-- isbn: 9780345803559
+---
+title: "Money: The Unauthorized Biography"
+author: Felix Martin
+year: 2013
+isbn: 9780345803559
+---
 
 the following are my personal notes on money: the unauthorized biography. this
 is not a summary, these are just the ideas that are new to me or that stood out

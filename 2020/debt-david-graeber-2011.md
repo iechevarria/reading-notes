@@ -1,8 +1,9 @@
-# debt: the first 5,000 years
-
-- author: david graeber
-- year: 2011
-- isbn: 9781612194196
+---
+title: "Debt: The First 5000 Years"
+author: David Graeber
+year: 2011
+isbn: 9781612194196
+---
 
 the following are my personal notes on debt. they are not a summary of
 the book. instead, they're a collection of ideas that caught my eye or that

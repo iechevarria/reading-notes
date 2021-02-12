@@ -1,8 +1,9 @@
-# the time of money
-
-- author: lisa adkins
-- year: 2018
-- isbn: 9781503607101
+---
+title: The Time of Money
+author: Lisa Adkins
+year: 2018
+isbn: 9781503607101
+---
 
 the following are my notes on the time of money. this is not a summary. instead,
 these are ideas that are new to me or that caught my eye.

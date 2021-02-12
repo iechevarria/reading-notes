@@ -1,8 +1,9 @@
-# the case for a job guarantee
-
-- author: pavlina r. tcherneva
-- year: 2020
-- isbn: 9781509542109
+---
+title: The Case for a Job Guarantee
+author: Pavlina R. Tcherneva
+year: 2020
+isbn: 9781509542109
+---
 
 the following are my notes on the case for a job guarantee. this is not a
 summary. instead, these are the ideas that caught my eye.

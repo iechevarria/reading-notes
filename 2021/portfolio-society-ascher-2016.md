@@ -1,8 +1,9 @@
-# portfolio society: on the capitalist mode of prediction
-
-- author: ivan ascher
-- year: 2016
-- isbn: 9781935408741
+---
+title: Portfolio Society
+author: Ivan Ascher
+year: 2016
+isbn: 9781935408741
+---
 
 the following are my notes on portfolio society. this is not a summary. instead,
 these are the ideas that caught my eye.

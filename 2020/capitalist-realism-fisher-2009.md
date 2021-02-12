@@ -1,8 +1,9 @@
-# capitalist realism: is there no alternative?
-
-- author: mark fisher
-- year: 2009
-- isbn: 9781846943171
+---
+title: Capitalist Realism
+author: Mark Fisher
+year: 2009
+isbn: 9781846943171
+---
 
 the following are my personal notes on capitalist realism. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.

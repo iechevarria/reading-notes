@@ -1,8 +1,9 @@
-# the deficit myth
-
-- author: stephanie kelton
-- year: 2020
-- isbn: 9781541736184
+---
+title: The Deficit Myth
+author: Stephanie Kelton
+year: 2020
+isbn: 9781541736184
+---
 
 the following are my notes on the deficit myth. this is not a summary. instead,
 these are ideas that are new to me or that caught my eye. in this case, i'm

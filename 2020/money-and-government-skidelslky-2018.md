@@ -1,8 +1,9 @@
-# money and government: the past and future of economics
-
-- author: robert skidelsky
-- year: 2018
-- isbn: 9780300240320
+---
+title: Money and Government
+author: Robert Skidelsky
+year: 2018
+isbn: 9780300240320
+---
 
 the following are my personal notes on money and government. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.

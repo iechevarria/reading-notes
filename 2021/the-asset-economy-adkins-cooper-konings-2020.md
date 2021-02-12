@@ -1,8 +1,9 @@
-# the asset economy
-
-- author: lisa adkins, melinda cooper, martijn konings
-- year: 2020
-- isbn: 9781509543465
+---
+title: The Asset Economy
+author: Lisa Adkins, Melinda Cooper, Martijn Konings
+year: 2020
+isbn: 9781509543465
+---
 
 the following are my notes on the asset economy. this is not a summary. instead,
 these are the ideas that caught my eye.

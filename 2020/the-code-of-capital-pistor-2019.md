@@ -1,8 +1,9 @@
-# the code of capital: how law creates wealth and inequality
-
-- author: katharina pistor
-- year: 2019
-- isbn: 9780691178974
+---
+title: The Code of Capital
+author: Katharina Pistor
+year: 2019
+isbn: 9780691178974
+---
 
 the following are my personal notes on the code of capital. this is not a
 summary, these are just the ideas that are new to me or that stood out to me.

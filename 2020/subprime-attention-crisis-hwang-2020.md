@@ -1,8 +1,9 @@
-# subprime attention crisis: advertising and the time bomb at the heart of the internet
-
-- author: tim hwang
-- year: 2020
-- isbn: 9780374538651
+---
+title: Subprime Attention Crisis
+author: Tim Hwang
+year: 2020
+isbn: 9780374538651
+---
 
 the following are my notes on subprime attention crisis. this is not a summary.
 instead, these are ideas that are new to me or that caught my eye. these are

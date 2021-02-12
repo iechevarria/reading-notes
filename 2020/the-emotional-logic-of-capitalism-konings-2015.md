@@ -1,8 +1,9 @@
-# the emotional logic of capitalism: what progressives have missed
-
-- author: martijn konings
-- year: 2015
-- isbn: 9780804794473
+---
+title: The Emotional Logic of Capitalism
+author: Martijn Konings
+year: 2015
+isbn: 9780804794473
+---
 
 the following are my notes on the emotional logic of capitalism. this is not a
 summary. instead, these are ideas that are new to me or that caught my eye.
