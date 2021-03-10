@@ -5,8 +5,7 @@ year: 2020
 isbn: 9781509543465
 ---
 
-the following are my notes on the asset economy. this is not a summary. instead,
-these are the ideas that caught my eye.
+the following are my notes on the asset economy. this is not a summary. instead, these are the ideas that caught my eye.
 
 ## introduction
 - 2 - generational analysis big in public debate, out of style in academia
