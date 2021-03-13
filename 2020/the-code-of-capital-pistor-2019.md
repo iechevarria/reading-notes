@@ -69,6 +69,7 @@ the following are my personal notes on the code of capital. this is not a summar
 - 105 - "Far from designing a perfect hedge, LTCM had made just a single bet"
 - 106 - "when it comes to debt markets, the mantra of free markets is flatly wrong ... private law too rests ultimately on state power"
 - 107 - "Debt, the private money that has fueled capitalism since its inception, is coded in law and ultimately relies on the state to back it up. States should realize this and keep the inflation of private money under control, because the more they bend to the will of private debt minters in boom times, the more they will be on the hook when it turns out that the economy cannot sustain the debt burden they created."
+- general - would love to see a similar treatment of landlording / real estate; the way this book examines law would lend a lot to that
 
 ## 5: enclosing nature's code
 - 114 - people defend patents on genes by saying without it there wouldn't be profit and therefore discovery; background of BRCA proves contrary - lots of govt + private foundations who invested resources
@@ -93,9 +94,41 @@ the following are my personal notes on the code of capital. this is not a summar
 - 142 - on eli lilly case: "The tribunal's willingness to entertain the cmoparison between Canadian, Mexican, and US courts suggests a bias in favor of investor interests over state sovereignty."
 - 143 - professional arbitrators for international cases have incentive to hear cases that likely have no basis since they're paid one case at a time
 - 147 - ISDA (swaps n derivatives group) made counterparties agree to pay out to derivatives traders before any other creditor; not really legal for existing bankruptcy laws
+- 149 - bc of derivative privileging, other loans were structured as derivatives
+- 149 - derivatives traders got money first in financial crisis; made crisis worse by cashing out immediately, reducing assets that could be used in reorganization; this was recognized as risk by BIS in late 90s
+- 150 - states had to work together to impose rules on ISDA to fix netting out rules; ISDA adopted modified rules; states made market participants follow ISDA rules if they wanted to trade derivatives
+- 152 - states used ISDA to regulate derivatives markets - "The fact that sovereign states had to co-opt a private business association, namely ISDA, to achieve their regulatory goals, indicates the extent to which states have lost control over the governance of global finance."
+- 153 - ISDA first created contracts and then afterward lobbied states to make laws consistent with those contacts - opposite of expected
+- 154 - contra marxists, not done by state capture but use law to wield statte power indirectly
 
-## general comments
-- 108 - would love to see a similar treatment of landlording / real estate; the way this book examines law would lend a lot to that
+## 7: masters of the code
+- 166 - lawyers aren't rent seekers bc they create capital from assets; they dont think about societal effects, if they do, hope invisible hand will fix things. dont realize that they make invisible hand a fairy tale
+- 173 - common law has advantages for coding capital bc earlier emergence of private lawyers, new law can be made and only occasionally vetted by court
+- 174 - typo lol "970 attorneys per person"
+- 177 - english law had advantage for international operation bc english colonies
+- 177 - domestic US law fragmented bc states, makes US lawyers suited to operating internationally
+- 180 - lawyers depend on state law but avoid courts bc this would put coding to the test
+- 181 - "When cases are no longer vetted in the open, the law becomes stale and judges lose expertise, thereby giving lawyers and their clients even more reasons to avoid them."
+- 181 - settlements benefit attorneys more than anyone because if there aren't cases that clarify the law, their advice will be needed more
+
+## 8: a new code?
+- 188 - immutable contracts are exposed to world's inherent uncertainty, could become bad
+- 194 - no reason to think the blockchain is going to democratize anything; process of formalizing preexisting rights gives power to those with literacy
+- 196 - DAO on etherium had a dumb structure - if it didn't blow up, it would have been subject to capital withdrawal bc no shareholder lock-in
+- 202 - "only states can effectively back money, because only states have the power to unilaterally impose burdens on others."
+
+## 9: capital rules by law
+- 210 - contracts are inherently incomplete; cannot foresee all future possibilities + too costly to enumerate them; law's incompleteness makes it fertile ground for creativity
+- 212 - law's malleability, indeterminacy makes it easy to game
+- 214 - capital coders have first-mover advantage; practices can spread and become legitimate by spread
+- 215 - "The representatives of the people fail to see or do not want to see that the additional benefits they shower on capital serves priimarily their individual holders, not society at large."
+- 217 - capital coders prefer to work out of the public eye, prefer not to lobby for explicit legislative change unless totally necessary
+- 222 - legal protection of capital is greatest of all subsidies
+- 225 - fixes: default answer to new special regulations, tax treatments should be no; choosing most convenient legal system should be more difficult; conflict-of-law rules can be rolled back one state at a time since no treaty exists; rolling back choice of place of incorporation would do more against tax shelters than blacklisting countries that have low tax rates
+- 226 - no more arbitration except between peerss
+- 226 - typo! "legal modules necessary for converting simple into capital assets"
+- 227 - allow affected parties in crisis to seek damages afterward, make them large amounts for deterrence
+- 229 - "one of the major lessons of coding capital is that persistent incrementalism has advanced the interests of capital holders; persistent incrementalism, I suggest, may also be a viable strategy to push back and ensure that democratic polities may rule themselves by law."
 
 ## things to look up
 - 12 - john commons the legal foundations of capitalism
@@ -105,5 +138,6 @@ the following are my personal notes on the code of capital. this is not a summar
 - 93 - berlin merchant buring monetization of nobility's land
 - 115 - haskel and westlake book capitalism without capital
 - 118 - pagano on knowledge ownership
-
+- 209 - christoph menke critique of rights
+- 219 - mancur olson
 - 273 - mehrling minsky and modern finance
