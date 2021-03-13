@@ -77,7 +77,22 @@ the following are my personal notes on the code of capital. this is not a summar
 - 118 - "But the legal code of capital does not follow the rules of competition; instead, it operates according to the logic of power and privilege."
 - 121 - 1974 trade act introduced system of advisory committees that embed industry interests in US trade policy; speaks of citizens, but most if not all are execs of corporations, not normal citizens
 - 123 - WTO TRIPS extended patents globally, removed free access to know-how in less advanced countries
+- 123 - international property rights spearheaded by US companies
+- 125 - WTO law lets state retaliate if it doesn't comply with ruling - only useful to rich countries w/ lots of IP
+- 128 - some patents give companies head start by allowing them to collect data for much longer than anyone else, useful bc trade secrets have no time limit
+- 129 - "On one hand, US labor law endorses "employment at will," which gives employers great flexibility in firing workers, on the other, it allows employers to restrain employees' ability to re-deploy their skills."
+- 130 - compares BRCA to pagerank - not a great comparison IMO bc 1) BRCA wasn't legit law and pagerank was 2) pagerank was a good start but ultimately not used anymore. not sure if being patented was really important. could have just used it as a trade secret and probably been fine
+- general - patent -> timing advantage -> data moat; patent does not imply data moat, though it likely matters to some degree. patents hold less water in tech i thihnk, very common to be told not to look at patents (google's policy)
+- general - discussion of tech and law could really use discussion of open source and licenses
+- general - feels like this muddles patentable process / tech and business moats that aren't state-generated
+- general - useful to discuss how hard it is to dislodge tech patents
 
+## 6: a code for the globe
+- 132 - solution to problem of global law satisfied by just using a single domestic legal system
+- 141 - states held liable under international law for sub-units of federation where no federal jurisdiction exists, see metalclad case
+- 142 - on eli lilly case: "The tribunal's willingness to entertain the cmoparison between Canadian, Mexican, and US courts suggests a bias in favor of investor interests over state sovereignty."
+- 143 - professional arbitrators for international cases have incentive to hear cases that likely have no basis since they're paid one case at a time
+- 147 - ISDA (swaps n derivatives group) made counterparties agree to pay out to derivatives traders before any other creditor; not really legal for existing bankruptcy laws
 
 ## general comments
 - 108 - would love to see a similar treatment of landlording / real estate; the way this book examines law would lend a lot to that
