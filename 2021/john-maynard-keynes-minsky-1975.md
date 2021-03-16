@@ -88,6 +88,73 @@ the following are my notes on john maynard keynes. this is not a summary. instea
 - 109 - existence of borrower / lender risk means successful operation means capital appreciation
 - 109 - "The Shakespearean dictum "Neither a borrower nor lender be" fails to take into account the capital gains both parties can enjoy."
 - 109 - less risk aversion means more leverage - "capital appreciation uncovers borrowing power"
+- 110 - households more likely to borrow to buy shares, banks more willing to finance margin purchases, increase in share prices
+- 110 - in a boom, ratio of debt-financing to investment increases, borne out by empirical data on corporate debt
+- 112 - boom depends on realizing optimistic expectations on yields
+- 112 - many causes for need for liquidity: wage / production cost increases, interest rates, cost of previous debt -> when a lot of units need to sell assets to make position by selling, asset prices fall badly unless there's a standby market supporter
+- 116 - "This ability to generate cash flows by selling an asset without large price concessions measures the asset's liquidity."
+- 116 - anyone other than actual operator of wealth will put premium on ability to disengage: sell out or redeploy wealth
+- 119 - banking inherently speculative about possibility of refinancing - "Banking as it is practiced could not exist without well-developed loan and security markets among banks."
+- 120 - "the effective quantity of money is endogenously determined" bc banks can do interbank transactions in reserves
+- 120 - increase in external finance increases money supply, decreases idle cash balances
+- 121 - early in boom, financing terms don't change much even with expansion of debt; "To the extent that earlier deals were financed with short-term borrowings, such increases in financing charges can feed back upon and adversely affect the value of earlier deals as they are refinanced."
+- 121 - boom has firms w/ heavier debt finance, households with less liquid-asset holdings relative to debt, banks increase loans at expense of securities
+- 121 - in boom, speculative demand for money down
+- 122 - as boom develops, units forced to take more precarious positions
+- 125 - "success breeds daring, and over time the memory of past disaster is eroded. Stability - even of an expansion - is destabilizing in that more adventuresom financing of investment pays off to the leaders, and others follow. Thus an expansion will, at an accelerating rate, feed into the boom."
+- 126 - "As a recovery approaches full employment the current generation of economic soothsayers will proclaim that the business cycle has been banished from the land and a new era of permanent prosperity has been inaugurated." - just incredibly prescient, foresaw great moderation, robert lucas's 2003 statement that the economy was solved
+- 126 - not boom, deflation, stagnation, recovery can continue indefinitely - "Each state nurtures forces that lead to its own destruction."
+- 127 - keynes didn't talk about finance, which was weird. why didn't successors? bc from GT to mid 60s, finance was healthy - "It was a unique period in which finance mattered relatively little; at least, finance did not interpose its destabilizing ways."
+- 127 - govt was large part of economy - "changed the shape, though not the essential character, of capitalist business cycles."
+- 127 - GT wasn't followed bc analytical econmists didn't have experience in finance like keynes - "those knowledgeable about finance did not have the skeptical, aloof attitude toward capitalist enterprise necessary to understand and appreciate the basically critical attitude that permeated Keynes's work."
+
+## chapter 7. some implications of the alternative interpretation
+- 129 - "the normal path of a capitalist economy is cyclical"
+- 129 - "capitalist finance affects the valuation of items in teh stock of capital assets and thus affects the pace of investment" - opposed to neoclassical static-production function, invariant-preference-system -> keynes's work was distorted in synthesis
+- 129 - capital assets peculiar bc thin resale market and yields they earn depend on performance of firm in defined market and upon cyclic behavior of economy
+- 134 - world depends on past (inherited financial commitments) and future (currently created commitments), so wage deflations + inflations are destabilizing; wage deflation "will tend to make unemployment worse, not better"
+- 136 - "Pure rent results when a capital asset is scarce."
+- 136 - "Whereas capital services not used today will be available some other day, labor services not used are lost forever."
+- 136 - burden of debt increases during deflation; willingness to go into debt decreases -> purchases of investment goods declines
+- 137 - deflation -> realization that speculative gains can be made by holding money -> velocity declines
+- 137 - wage deflation leads to fall in real investment below level at which initial excess of supply existed -> "Downward wage flexibility, in a situation with unemployment, will make things worse."
+- 138 - inflation needed for full employment financed by private investment - "both bankers and businessmen will go along with the increased ratio of debt to internal financing of investment only if they are reasonably confident that the quasi-rents will grow, i.e., if they believe inflation will take place."
+- 139 - "an inflationary push in the investment-goods industries willl need to be generalized into an economy-wide inflation"
+- 139 - "In an economy with strong trade unions in the production of investment goods (construction) and a policy commitment to maintain the output of investment goods, the effective determinant of price-level changes is of course the money wages in the investment-goods industries. Thus, any effective antiinflationary policy in such an economy will require institutional controls on money-wage changes in this key sector."
+- 140 - units become more and more dependent on financial, product, factor markets as leverage goes up
+- 140 - model needs to be "explicitly cyclical and overtly financial" to diagnose problems of capitalism
+
+## chapter 8. social philosophy and economic policy
+- 147 - keynes: "It is *not* a correct deduction from the principles of economics that enlightened self-interest always operates in the public itnerest. Nor is it true that self-interest generally *is* enlightened, more often individuals acting separately to promote their own ends are too ignorant or too weak to attain even these."
+- 148 - keynes: some inequality ok, but too much today (1936); arguments don't apply to inequality of inheritances
+- 149 - keynes: "dangerious human proclivities can be canalized into comparatively harmless channels by the existence of opportunities for money-making and private wealth" - not necessary that these games have such high stakes
+- 149 - taxation of income + inheritance desirable - "and fortunately, as if by some invisible hand, such a modification of income distribution would also make the attainment and the sustaining of full employment easier." - lmao this dude's funny
+- 151 - keynes thought once absolute needs satisfied, capital would be abundant, rentier euthanized - did not anticipate even more capital used for relative goods than absolute - prediction was "based upon a genearlization of his own preferences."
+- 152 - rich turned to capital-intensive consumption rather than culture + philosophy -> example filtered down to not as rich -> "Thus a variety of conspicuous consumption became generalized, and this conspicuous consumption has led to a continuing capital shortage."
+- 152 - "In order to achieve the euthanasia of the rentier, it may be necessary to first achieve the income distribution that Keynes argued would exist after the euthanasia was achieved."
+- 152 - advertising might be to blame, "affluence has not brought a demand for the quiet pleasures; but rather has been associated with proliferation of demands for goods that require capital assets."
+- 152 - policy maintained income weighted toward capital-consuming military needs
+- 152 - possible route: euthanasia of rentier <- constraints on growth of relative needs <- income distribution w/ low / no income from capital ownership, i.e., prior euthanasia of rentier
+- 153 - cold war arms race equivalent to war - rapid obsolescence of capital investment weapons - "The succession of weapons systems has been equivalent to pillage and bombings in its destruction of the fruits of prior accumulation."
+- 156 - big govt induces investment by increasing profitability w/o regard for consumption / income distribution - "Full-employment policy has taken on a conservative coloration; what has been achieved might properly be called socialism for the rich."
+- 156 - tax schemes create treadmill where ever greater profits + subsidies needed to sustain full employment
+- 158 - "When conservatives are Keynesians, then tax and spending policies may well be used to give life to rentiers rather than to abet their euthanasia."
+
+## chapter 9. policy implications of the alternative interpretation
+- 161 - accelerating wages (especailly in investment goods production) + money will be lent + fed needs to prevent crisis + govt sets high floor to unemployment -> inflation
+- 161 - "Whenever substantial unemployment for trade-union members is not a creditable possibility, traded unions become more powerful; and whenever past wage increases have been validated by subsequent price increases, employers become less resistant to futher increases." -> combo of general prosperity + low tolerance for unemployment + fragile financial system conducive to accelerated inflation
+- 161 - inflation especially likely if full-employment strategy is investment-led
+- 162 - without crisis, "upward bias to prices and ever-higher financial layering are induced."
+- 162 - advertising + defense spending -> shortage of capital
+- 163 - "the high-investment strategy has the economy on a treadmill of ever-higher discretionary consumption, without any apparent tendency toward satiation. The joylessness of American affluence may be due to the lack of a goal, the acceptance of a standard in which "more" is really not worth the effort."
+- 163 - stability + robustness of finance in 50s + 60s an ccident of history, "due to the financial residue of World War II following fast upon a great depression."
+- 164 - forced back to normative question; full employemnt is dominant goal, "the scheme of perpetual waste and want has to date succeeded." - no incrementally useful capital, war preparations, consumption fads have kept full employment - no "corresponding increase in felt well-being"
+- 164 - "It rather seems to put all - the affluent, the poor, and those in between - on a fruitless inflationary treadmill, accompanied by what is taken to be deterioration in the biological and social environment."
+- 164 - full employment through private investment is destabilizing: better strategy is to decrease dependence on private investment, increase avg private propensity to consume
+- 164 - "this high-consumption synthesis might well be conducive to greater freedom for entrepreneurial ability and daring than is our present structure"
+- 165 - shouldn't have strategy where wealth trickles down to poor, "the income of the poor is sustained and increased directly, and the affluent take their chances."
+- 166 - "It will remain true that we live out our lives in transition; there is not final solution to the problems of organizing economic life."
+- general - reading this about the same duration after time between gt publication and its publication - realize now that why minsky matters is similar
 
 ## things to look up
 - 16 - joan robinson on bastard keynesianism
