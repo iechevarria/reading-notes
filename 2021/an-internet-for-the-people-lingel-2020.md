@@ -16,7 +16,7 @@ isbn: 9780691188904
 - 21 - draws libetarian view of econ, vaguely spiritual self-empowerment, combination "made only possible through a nearly universal belief in technological determinism" (barbook + cameron 1996)
 - 21 - bay area tech industry bc william shockley moved lab to mountain view to live near his mother in palo alto
 - 22 - recession saw workers from financial industry move into tech, change profit-oriented culture with them (don't know if 2008 really changed bc the people moved around, really might be that it became so lucrative and the money changed the culture and the motivations became more external)
-- 24 - craig newmark in first interview: "I  have no social awareness of norms. I regard this as dysfunctional."
+- 24 - craig newmark in first interview: "I have no social awareness of norms. I regard this as dysfunctional."
 - 26 - newmark: "In 2000, people helped me understand that I wasn't the best manager, and that's when I turned things over to Jim. I then went over to Customer Service and began to help out there."
 - 26 - as of 2019, newmark still does customer service work at reduced scale
 - 27 - "At present, he devotes most of his time to various philanthropic causes - in particular, supporting families of veterans, voting rights, freedom of the press, and bird sanctuaries."
