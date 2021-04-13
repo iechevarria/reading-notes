@@ -76,7 +76,15 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 143 - private clearing hosues preserved only members' internal payments -> "Excluding the other banks, they aggracted the crisis for the peripheral banks whose debt positions had to be settled in cash."
 
 ## 4: the upheavals of the twentieth century
+- 148 - resurgence of liberal ideology -> "What followed was an extraordinary ideological swindle, by way of the claim that the new era of globalised finance was in fact serving to eradicate poverty and reduce global inequality."
+- 150 - should give up on 'natural' value of money, precious to locke -> "It is to assert the autonomy of the social world from ideal economic laws, which are imaginary. It is to admit that social rules – and monetary rules first among them – are entirely man-made and instituted by society without any transcendent point of reference.
+- 155 - more means of private payment doesn't undermine central bank influence -> actually strengthens it b/c more complexity in payments + more volume + shorter intervals all increase systemic risk
+- 155 - "If one believes certain writers who are rather too keen on science fiction, electronic money" - lol grouching about btc
+- 157 - "informational asymmetries that result from the act of credit cannot be eliminated by transfer technologies." -> says internet cos don't want to get into banking bc they would be regulated as banks, i disagree, tech cos are taking that on bc banking is super sticky, so ok w/ banking regs
+- 159 - not great section on cryptocurrency! written in 2016 tho
+- 162 - "Only when faced with repeated and consistent indications to the contrary will agents let go of the idea that money's purchasing power remains stable."
 
+ 
 
 ## things to look up
 - 18 - amartya sen 2009 the idea of justice
@@ -89,3 +97,4 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 83 - theret la monnaie devoilee par ses crises
 - 121 - fernand braudel 1979 civilization and capitalism, 15th-18th centuries
 - 139 - george a selgin 1988 theory of free banking
+- 162 - anton brender, florence pisani 1997 les taux diteret approche empirique (abt inertia in inflation)
