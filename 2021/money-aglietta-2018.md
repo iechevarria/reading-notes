@@ -83,8 +83,69 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 157 - "informational asymmetries that result from the act of credit cannot be eliminated by transfer technologies." -> says internet cos don't want to get into banking bc they would be regulated as banks, i disagree, tech cos are taking that on bc banking is super sticky, so ok w/ banking regs
 - 159 - not great section on cryptocurrency! written in 2016 tho
 - 162 - "Only when faced with repeated and consistent indications to the contrary will agents let go of the idea that money's purchasing power remains stable."
+- 167 - "economic theory that takes individuals as its foundation is indifferent to the divisions between such individuals' situations. For it automatically assumes that these divisions are based on merit, in that they result exclusively from individual choices." -> not necessarily so, but then going from the people who actually argue this way, you would think so lol
+- 173 - btc detached from notion of public good; "Bitcoin maintains the illusion of a virtual community through networks of those who promote it and exchange knowledge about it. But it is not supported by any hierarchically organised..." -> so can't guarantee liquidity or respond to real economy needs
+- 174 - btc by definition unequal, favors early adopters to detriment of newcomers
+- 174 - "Fixed in advance, the supply of bitcoin cannot respond to the global need for liquidity."
+- 180 - wants monetary recognition of the commons to overcome environmental externalities (zizek on odd lots has a decent counterpoint i think)
+- 181 - better alternative to QE (which creates no new income) = buying assets that are counterparty to new real investment
 
- 
+## part iii: crises and monetary regulation
+- 188 - in crisis, feverish search for means of protecting existing assets - ends up "polarising around some new shared belief" often external to former space, usually means foreign currency - "Hence, mimicry is the general logic in play in extreme monetary crises, at the critical moment in which the official currency is rejected."
+- 189 - two types of monetary crisis, first is fragmentation -> money so scarce that debt settlement gets paralyzed -> bankruptcies + collapse in asset prices; liquidity preference aggravates crisis; this is deflationary crisis
+- 189 - second type is extreme centralization -> savers feel wealth is threatened, try to get out of money -> "As they run away from money, an inflationary spiral develops that raises doubts over the long-term integrity of the unit of account."
+
+## 5: monetary crises in history
+- 193 - between 274-295 prices in egypt increased 48x - as if agents rejected unit of account and fixed prices to gold
+- 194 - constantine broke inflationary spiral w/ christianity changing nature of sovereignty -> confiscated pagan temple gold -> rebuilt monetary system on basis of gold, decreed debts paid in gold -> between 346-388 20x increase in gold money circulation
+- 194 - only could handle inflation after taking account of private behaviors -> "It was the change of political sovereignty that allowed an effective monetary reform, and not the other way around."
+- 202 - england had coinage problems, high quality coin hoarded/exported -> "The famous private search for money, which theorists assumed would bring about a single means of payment as a point around which actors would converge, led nowhere."
+- 203 - 1600s had arbitrary stuff - "clearly demonstrated that the arbitrariness of the public authorities had made it impossible to establish a national debt."
+- 206 - john law had modern approach to economics - "Money creation had to be based on expected future wealth, and no longer on the past wealth accumulated in precious metals."
+- 208 - john law had to leave france in december 1720 - almost exactly 300 years ago! neat!
+- 208 - law's system failed bc needed 1% growth rate that no european country could sustain until industrial revolution
+- 210 - 1815 england's natl debt 260% of gdp - took 40 years to get under 100% and had advantage of industrial revolution
+- 216 - 1878 froze quantity of greenbacks, issuing new ones forbidden; this w/ productivity gains from industry, created long period of deflation from 1873-95
+- 217 - jp morgan had to go to london to get a gold loan in 1893 to loan $65m to treasurys
+- 218 - national banking act failed to defragment american banking system bc lacked federal clearing + settlement system
+- 218 - in 1907 knickerbocker trust company had a bank run, but wasn't memeber of ny clearing house bc refused its conditions, so couldn't get clearing house's emergency aid -> contagion spread to all trusts + banks (sounds like shadow banking! shows you need to support shadow banks + force them to take on conditions)
+- 220 - more centralized federal reserve made in 1913 basically bc the dems won in 1912 - would have been decentralized if republicans won. total accident of history wow
+- 223 - contra monetarism, inflation not proprtional to rise in quantity of money -> "the 'real' mass of money – the nominal mass of money divided by the general level of prices – tends towards zero. Monetary expansion is a catalyst that can help to self the self-referential logic of indexation into motion. This catalyst is what casts doubt on the permanence of monetary rules, and thus undermines confidence in money. But once this phase of indexation is underway, it no longer depends on monetary expansion."
+- 227 - german hyperinflation caused division between towns and countryside - retention of produce from market -> "The consequence was a collapse in econoic activity. _Nominal hyperinflation is also real hyperdeflation_. This totally contradicts the quantitative theory of money and the supposed neutrality of money in relation to the real economy."
+- 232 - kalecki + robinson: "hyperinflation is the consequence of a violent conflict over resources, the presence of an indexation mechanism and the sudden abandonment of the national currency in favour of a substitute."
+- 232 - final years of allende had cost of living increase 100x while real money stock lost 70% of value
+- 234 - 1980s us monetary policy brought oil shock -> crises in all raw-materials producer countries
+- 234 - brazilian real plan based on inertial consideration of inflation, understanding it was self-referential process
+- 235 - real's success also bc it was consensual + participatory, consulted w/ range of actors, didn't have price freeze, confiscation of goods, savings, or break of contracts
+- 236 - ecuadorian dollarization was attempt to reconquer political sovereignty that it lost internally by abandoning monetary sovereignty
+- 238 - 1987 crisis banks worried about market maker fragility, wouldnt lend to them, settlement system endangered by market maker collapse -> fed did lender of last resort stuff
+- 239 - "Abundant macroeconomic liquidity can thus coexist with insufficient market liquidity, on account of informational asymmetries and counterparty risks." - sounds like lily
+- 242 - country on floating interest rate -> "the anticipated depreciation of the country's exchange rate will be self-fulfilling. The rise in foreign exchange rate swells indebtedness and weakens the balance-sheet structure. This increases risk premiums and thus increases the short-term cost of renewing debt. The result is a fall in capital's profitability, weakened investment and a sharp brake on growth, or even a recesion if the balance sheets worsen significantly."
+- 243 - part of reason why asian + latam countries moved to become export countries + accumulated forex reserves to protect against future shocks
+
+## 6: monetary regulation under capitalism
+- 247 - "ayatollahs of market efficiency" lmao
+- 248 - in monetary economy, central bank has info other agents don't bc can see extract info from central clearing process, can make informed discretionary decisions - "Of course, these effects will only faour overall economic stability if the collective rationality that the central bank promotes is continually enriched with a practical knowledge, drawn from its presence on the capital markets." - sounds like minsky!!
+- 257 - minsky finally shows up lmao took too long
+- 259 - been clear since 1980s that short-term variation in cash demand unpredictable - setting objective for monetary base will bring excess / insufficiency of reserves -> huge daily variations in interest rate - "So it is impossible to impose tight controls on the quantity of the monetary base, unless we accept senseless variations in short-term interest rates."
+- 261 - german labor negotiation system indexed to gdp - "The fact that this common reference point is taken into account in negotiations on income sharing and setting offer prices allows for inflationary pressures to be eased, without excessive losses in production or employment."
+- 263 - natural rate changes over time, competition stimulates innovation, is highly uncertain -> "This is why a non-contingent rule for fixing the policy rate, founded on an estimation of a supposedly stable neutral rate, would itself be a factor for destabilisation when economic conditions change."
+- 265 - in 80s, demand for money unstable -> "Monetarism thus had to be shelved along with the other pieces of monetary policy." lol
+- 269 - "Market actors are financed on credit, against a collateral which is the speculative asset itself. They, like those lending to them, have an interest in maintaining momentum, because there is no fundamental value in playing the role of an incontestable benchmark for the market."
+- 270 - "An insolvency risk builds up on the balance sheets, but it remains concealed as long as the momentum continues. It resides in the invisible probability that the bubble of speculation will burst."
+- 272 - "Financial actors thus have an interest in joining and remaining within the bubble that increases their capital gains due to cheap leverage. _The crisis is inevitable, but it is impossible to predict the moment when it is going to break out_."
+- 274 - "Identifying vulnerabilities rather than potential shocks enables greater attention to be paid to the systemic impact of shocks if they do indeed take place." - really excellent point
+- 275 - three macroprudential tools: requirements for counter-cyclical capital buffers, loan-to-value + debt-to-income ratios, required reserve ratios (minsky against this one i think)
+- 279 - extreme crisis reduces incentive to invest bc capital's net meginal yield is close to zero or lower - this is what secular stagnation looks like
+- 281 - if central bank forward guidance is credible, then anticipation-element of long-term rates stays low + reduces influence that volatility of future short term rates has on price of risk -> pushes down rate curve as a whole
+- 282 - rise in price of risk reflects weakened liquidity of investors
+- 282 - central bank purchases state debt to control term premium
+- 282 - central bank hopes to incentivize long-term investors to reduce risk aversion, invest in a way that brings out real investment (this is portfolio channel)
+
+## part iv: the enigma of international currency
+- 286 - payment system works best when payments settled and final - need a highest form of liquidity to do this
+- 286 - "In this era, international relations have been affected by something of an Unidentified Flying Object in the monetary landscape: namely, the euro." lol
+- 287 - "International liquidity is a public good that has never found its necessary institutional solution."
 
 ## things to look up
 - 18 - amartya sen 2009 the idea of justice
@@ -98,3 +159,8 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 121 - fernand braudel 1979 civilization and capitalism, 15th-18th centuries
 - 139 - george a selgin 1988 theory of free banking
 - 162 - anton brender, florence pisani 1997 les taux diteret approche empirique (abt inertia in inflation)
+- 214 - charles p kindleberger 1978 manias, panics, and crashes
+- 219 - elmus wicker 2005 the great debate on banking reform: nelson aldrich and the origins of the fed
+- 235 - jaimes marques-pereira in rober boyer and julio neffa 2007 salida de crisis y estrategias alternativas de desarrollo, la experiencia argentina
+- 240 - 1980s scandinavian countries asset price cycle + financial liberalization
+- 253 - barry eichengreen 1985 the gold standard in theory and history
