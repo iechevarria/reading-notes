@@ -147,6 +147,50 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 286 - "In this era, international relations have been affected by something of an Unidentified Flying Object in the monetary landscape: namely, the euro." lol
 - 287 - "International liquidity is a public good that has never found its necessary institutional solution."
 
+## 7: international currency faced with the test of history
+- 290 - currency used in exchange will tend to be used as unit of account + reserve of value -> tend to converge towards one dominant currency
+- 292 - if financial integration complete, must be only one top form of liquidity
+- 292 - "if two currencies are competing to be the basis for ultimate liquidity in the world economy, then their exchange rate is indeterminate."
+- 294 - "the more two currencies can be substituted for one another, the more unstable their exchange rate becomes" - small differences trigger movements between them, true bc demand for money isn't demand for a good, but "It is collective because an individual's demand for the services of the payment system is an increasing function of others' demand."
+- 298 - in second globalization, "capital movements have essentially been a matter of speculation, driven by a mode of competition based on mimicry."
+- 301 - 1889-1913 had strongly cyclical prices + incomes, much more variable than 1960-1997
+- 304 - uk was pivot of gold standard system, had least gold reserves
+- 304 - end of gold standard started in may 1873 bc vienna had real estate speculation
+- 305 - uk was on its way out, only at the top bc us's weak financial system which was fixed w/ fed in 1913
+- 309 - 1928 financial crisis started w/ florida real estate boom
+- 309 - 1929 crash mostly stayed in markets, only in autumn 1930 did banking crisis hit (sounds like 07-08!!)
+- 309 - by march 1933, real debt burden increased 40% bc deflation
+- 316 - keynes: capital controls need to be permanent, floating exchange rates not capable of good equilibrium of balance of payments
+- 318 - us hypothetically had to keep gold $35/ounce, but not in reality bc govts in us orbit never demanded gold conversion
+- 318 - "The US's monetary policy was not subject to any form of constraint from a global feedback mechanism able to regulate worldwide liquidity. This is the dollar's exorbitant privilege." ->  exchange focus on dollar + fixed gold price in dollars + empty gold-convertability constraint -> "monetary expansion in the rest of the world subject to monetary expansion in the United States."
+- 319 - intl monetary system needs to solve 2 problems:
+    1. provide global supply of liquidity necessary for exchange
+    2. ensure balances of payments are adjusted to balance out supply + demand of currencies
+- 320 - bretton woods existed in full force from 1958-1971 bc it failed to deal with either problem
+- 320 - when us rate went below european rate, dollars flooded europe -> dollars placed on us money market, increased money supply in rest of world by increasing foreign central banks' reserves -> invest reserves in us financial system made dollars available to us residents again, us money supply immunised from liquidity outflow in dollars -> basically pure dollar standard system, global money supply determined by us as long as exchange rates fixed
+- 321 - "Since the creation of money depended exclusively on the US's domestic policy objectives, the supply of international liquidity was not adjusted to demand."
+- 327 - international monetary system officially governed by pure dollar system in 1971, released from any consideration of international coherence -> nixon forced fed chair to run inflationary policy by threatening fed independence
+- 333 - financial cycle not correlated to short-term macro cycle - financial cycle greater in periodicity + extent
+- 333 - not all business cycles can be understood in terms of financial cycle, only most severe crises combined w/ reversal in financial cycle
+- 334 - "We should not underestimate the real estate market's role in the _momentum_ dynamic that drives the financial cycle. Momentum means that the trajectory of prices over time is the consequence of self-reinforcing interactions between market participants' anticipations and their attitudes towards risk." - debt + asset prices interact 
+- 335 - international capital movements has not been positive for long-term growth
+- 335 - "If a closed economy is the starting point, the opening up of finance does benefit growth up to a certain point. But once that threshold has been passed, it becomes harmful."
+- 338 - ultimate liquidity collective good, results from polarization of demand for protection against uncertainty of crisis; "It cannot be the property of more than one currency at the same time." - dollar persistent bc no currency can replace it (hm dunno about this argument ok tho)
+- 339 - dollar inertia bc high cost of switching currencies, especially true w/ oil mkt
+- 339 - goldberg + tille: involuntary coalition effect between firms in same industry to use same unit of account to limit fluctuations in price relative to competitors -> "This logic emerges from the mimetic character of competing exporters' behavior."
+- 339 - dollar also dominant bc us big enough to create enough liquidity, won't get destabilized by international use
+- 340 - us also has deep + liquid financial mkts
+- 343 - us privilege to import products + assets w/o giving anything in exchange 
+- 344 - peripheral countries are business-cycle takers, so incentivized to have surplus foreign currency + implement "restrictive neo-mercantalist policies" w/ export-led growth
+
+## 8: transitioning to a new international monetary system
+- 350 - keynes + aglietta: intl money should be purely a vehicle
+- 354 - mundell: choose no more than two of:
+    1. fixed exchanges
+    2. independent monetary policies
+    3. perfect capital mobility
+    
+
 ## things to look up
 - 18 - amartya sen 2009 the idea of justice
 - 20 - jean-pierre dupuy "the self-transcendence of prices" in l'avenir de l'economie
@@ -164,3 +208,13 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 235 - jaimes marques-pereira in rober boyer and julio neffa 2007 salida de crisis y estrategias alternativas de desarrollo, la experiencia argentina
 - 240 - 1980s scandinavian countries asset price cycle + financial liberalization
 - 253 - barry eichengreen 1985 the gold standard in theory and history
+- 318 - barry eichengreen 2011 exorbitant privilege
+- 323 - robert tiffin 1960 gold and the dollar crisis
+- 327 - john williamson 1977 the failure of world monetary reform
+- 335 - dani rodrik + arvind subramanian 2009 why did financial globalization disappoint
+- 335 - stephen cecchetti + enisse kharroubi 2012 reassessing the impact of finance on growth
+- 339 - linda s goldberg + cedric tille 2008 vehicle currency use in international trade
+- 343 - dani rodrik 2006 the social cost of foreign exchange reserves
+- 345 - dani rodrik 2011 the globalization paradox
+- 349 - kareken and wallace on the indeterminacy of equilibrium exchange rates
+- 351 - mundell's impossibility theorem
