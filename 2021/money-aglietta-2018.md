@@ -185,11 +185,38 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 
 ## 8: transitioning to a new international monetary system
 - 350 - keynes + aglietta: intl money should be purely a vehicle
+- 353 - mundell's triangle does not take into account uncertainty, intl liquidity wrt crisis
 - 354 - mundell: choose no more than two of:
     1. fixed exchanges
     2. independent monetary policies
     3. perfect capital mobility
-    
+- 356 - hegemony succeeds when rules that define regime are seen as universal principles
+- 356 - hegemony only works if subordinates benefit more from conforming; more flexible than imperialism
+- 356 - "This ensures the hegemonic system the allegiance of the elites in the subordinate states."
+- 357 - only hegemony can handle free capital movement
+- 357 - "if the dollar becomes less able to fulfil international monetary functions and no other currency establishes itself in its sstead, this can only mean a retreat for the freedom of capital movement."
+- 361 - future cooperation aided by past cooperation - institutions made for different reasons get changed for present conditions - things from bretton woods used after bretton woods, adapted
+- 362 - "it is as if the euro were a foreign currency for its own member states."
+- 364 - eurozone doesn't need radical politics, just basic will to cooperate -> france and germany just don't trust each other
+- 376 - mid 2000s became fashionable to talk about savings glut, but "This reasoning was an intelligent way of sweeping aside the United States' responsibility and justifying the unilateralism of its policy."
+- 376 - "Yet it is not at all true that there was an overabundane of savings in the world: IMF statistics show that global savings barely increased at all in the fifteen years leading up to the crisis."
+- 376 - main cause of global imbalances was US economy
+- 377 - excess dollars had to be soaked up by foreign central banks bc US spending far higher than production possibilities
+- 380 - 2000s china trade w/ emerging world 15% -> 30%
+- 380 - 2008 dollar liquidity collapsed, hit global trade even for companies not caught up in wall street financial storm
+- 382 - "Yet today it is rearranging its economy with a view to the enrichment of its middle classes, the development of diversified consumption habits, and the promotion of innovation, enabling it to achieve global standards." - overly rosy view of china's rebalancing imo, much more fraught irl!
+- 383 - china no longer needs to accumulate dollar reserves bc yuan in sdr basket -> more flexible exchange rate, open current account
+- 384 - intl liquidity + balance of payments can't be solved by hegemon working outside common interest
+- 384 - "We should not be misled by the particularly low prices of goods and services. The error, here, is to forget that the characteristics of financial globalisation have transferred inflation onto asset markets."
+- 388 - proposes regional money cooperation - "the yuan, as a pivot money for East Asia." - lol really? again a fraught situation - would that really fly?
+- 392 - special drawing rights (sdr) is intl money - not debt - "SDR opens up a right of credit in any currency, which can be fully utilised by any IMF member."
+- 392 - "The third reason to develop the SDR is to create a substitution account within the IMF that would allow countries overloaded with dollar reserves to diversify them in an ordered way, without having to pass through the exchange markets, and thus without risking prompting the kind of fluctuations in exchange rates that are liable to spark monetary crises." - would this actually work? have no idea
+- 393 - sdr constrained by us congress
+- 394 - imf created emergency facilities, nobody used them - fed ended up creating swap lines instead - imf didn't work bc credit facilities were tied to structural conditions / intrusion into domestic policy
+- 394 - last resort not inflationary bc exists to counter deflation
+- 398 - "International economic exchanges, then, are transfers of value between entities located in different monetary spaces. This means that _no extra creation of liquidity is required in order to realise these payments_.
+- 398 - "This is why no universal sovereignty is required in order to found an international currency."
+- 398 - "Notably, this currency does not need to be held by private actors."
 
 ## things to look up
 - 18 - amartya sen 2009 the idea of justice
@@ -218,3 +245,6 @@ the following are my notes on money by aglietta. this is not a summary. instead,
 - 345 - dani rodrik 2011 the globalization paradox
 - 349 - kareken and wallace on the indeterminacy of equilibrium exchange rates
 - 351 - mundell's impossibility theorem
+- 355 - robert keohane 1984 after hegemony: cooperation and discord in the world political economy
+- 355 - stephen d krasner 1983 international regimes
+- 356 - gramsci prison notebooks
