@@ -25,7 +25,7 @@ isbn: 9780691188904
 ## 2. the death and life of classified ads: a media history of craigslist
 - 40 - p2p exchange, gig economy, online dating all have precursors in print media
 - 40 - "classifieds require sustained attention and local knowledge to be read and understood."
-- 43 - classifieds allow people to address anonymous mass in prive matters
+- 43 - classifieds allow people to address anonymous mass in private matters
 - 48 - newmark suggested competition in classifieds led print-media resentment of craigslist, hit pieces
 - 49 - "while craigslist is often described as a free-for-all of idiosyncrasies, quirkiness, risk, and desire, these characteristics have a legacy in the print classified ad, which underscores the tendency of media technologies to reproduce rather than replace their predecessors."
 
