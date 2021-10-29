@@ -22,7 +22,7 @@ these are just some funny quotes from the stranger.
 
 ## Part Two: 2
 - 79 - "And the more I thought about it, the more I dug out of my memory things I had overlooked or forgotten. I realized then that a man who had lived only one day could easily live for a hundred years in prison. He would have enough memories to keep him from being bored. In a way, it was an advantage."
-- 80 - "I hadn't understoof how days could be both long and short at the same time: long to live through, maybe, but so drawn out that they ended up flowing into one another. They lost their names. Only the words "yesterday" and "tomorrow" still had any meaning for me."
+- 80 - "I hadn't understood how days could be both long and short at the same time: long to live through, maybe, but so drawn out that they ended up flowing into one another. They lost their names. Only the words "yesterday" and "tomorrow" still had any meaning for me."
 
 ## Part Two: 5
 - 108 - "Then I blame myself every time for not having paid enough attention to accounts of executions. A man should always take an interest in those things. You never know what might happen. I'd read storeies in the papers like everybody else. But there must have been books devoted to the subject that I'd never been curious enough to look into. Maybe I would have found some accounts of escapes in them."
