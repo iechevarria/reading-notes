@@ -1,0 +1,169 @@
+---
+title: To Photograph is to Learn How to Die
+author: Tim Carpenter
+year: 2022
+isbn: 9798985733006
+---
+
+# preamble
+- 1 - general note: find this interior/exterior view to be solipsistic. I literally don't think like this, never have, can't
+- 3 - "because of our fundamental limitations ... your work .. will necessarily fail both the possibilities of your mind and the givenness of the world; I hope to persuade you not only that this is okay, but that one's humanity depends upon these near-misses."
+- 4 - "the stuff of reality is stubborn, recalcitrant. It will never meet us in the ways we might wish."
+- 4 - sometimes we have moments "when interior and exterior come into a sort of tentative alignment ... we rejoice in the mere suspicion of transcendence."
+- 4 - "And, inevitably, we despair: the ephemerality of these revelations is a painful echo of our own mortality."
+- 5 - "I believe that using a camera can draw us away from our selves."
+- 6 - camera lets us make relationships "among otherwise uncooperative earthly things; new and valuable correspondences which never actually existed."
+
+# about the text
+- 11 - convention in the book: subject matter is what's in front of the lens. form is everything else. content of picture is its totality
+
+# i: sonnet isolate
+- 15 - "The world is chaotic and utterly indifferent to the self."
+- 17 - "it's only because of this finitude that anything really matters at all." <- plainly wrong, things would still matter even if people were immortal. don't be so eager to assign death meaning.
+- 21 - paul valery: "Anticipation and its gropings, desire, planning, the projection of our hopes, our fears, are the main interior activity of our being."
+- 22 - iris murdoch: "We use our imagination not to escape the world but to join it"
+- 22 - isaish berlin / johann gottlieb fichte: "You become aware of the self only when there is some kind of resistance... It is the impact of the obstacle upon you which makes you aware of your self as an entity different..."
+- 23 - flannery o'connor: "I'm always highly irritated by people who imply that writing fiction is an escape from reality. It is a plunge into reality and it's very shocking to the system." - reminded of robert adams and gardening
+- 24 - "the fanciful maker merely chooses and places, without creating new, dynamic (i.e., formal) associations that transform subject matter"
+- 24 - wendell berry on imagination: "It is to see, not passively, but with a force of vision and even with visionary force."
+- 25 - wendell berry: "imagination thrives on contact, on tangible connection"
+- 26 - daily life is constant mostly involuntary imaginative dealing with internal vs external. mostly not conscious, e.g., there's a curb there, lift your foot
+- 28 - nietzsche: "As soon as we see a new image, we immediately construct wit with the aid of all our previous experiences, depending on the degree of our honesty and justice. All experiences are moral experiences, even in the realm of sense perception."
+- 29 - some annoying relativism  - "because nothing is ultimately true or false anyway"
+- 31 - "it is our posture or perspective vis-à-vis the constraints of the world, which is to see it is essentially _who we are_.
+- 32 - "Happily – and this is important – human agency is possible in all of this, because we can (and already do, often) take an active role in our _observations_ of the ongoing calibrations that occur in the imaginative space that is the self."
+- 33 - "culling of the inconsequential is essential to the creation of any aesthetic object." - crudely put, bulking and cutting. explore the possible, then prune down to the useful. but getting out to the tree of useful things means speculative funding on things that will not be useful. difficult and sometimes impossible to know ahead of time.
+- 34 - "we fashion a more or less stable union between the internal and external, and we say that we are bringing _form_ to bear on the situation." - sounds like the reduction of uncertainty
+- 35 - "Such is the unceasing activity of us humans, inclined as we are to find stability (however tentative), and a resultant predictability (however rough), as useful to living, in respects ranging from the mundane to the grand." - sounds like Keynes/Knight/Konings re: the reduction of uncertainty; form = certainty
+- 36 - "Form-making is embodied in abstraction." - wow is this an economics book? the cash, liquidity as abstraction over economic activity that reduces uncertainty
+- 38 - "An abstraction is necessarily a fiction – but this word should not trouble us, because 'fiction' in this sense does not imply truth or untruth."
+- 38 - wright morris: "Only fiction will accommodate the facts of life... Our choice, in so far as we have one, is not between fiction and fact, but between good and bad fiction... "
+- 40 - nietzsche: "evaluation is creation"
+- 44 - we can intervene in our imagination - "_to behave objectively toward your subjectivity_"
+- 45 - william carlos williams - "No ideas but in things."
+- 47 - finally first mention of robert adams
+- 52 - some stuff about how people are always unhappy and alone or something. my margin notes: it's not just interior, exterior. it's self, other people, the broader universe. the universe is indifferent to _us_ not just me personally.
+- 54 - nietzsche on life: "consists of rare individual moments of the highest significance and countless intervals in which at best the phantoms of those moments hover about us."
+- 55 - "Death is the mother of beauty" - wrong, it's extremely easy to imagine beauty without death. and it would be better.
+- 56 - marie boroff: "the profounder idea is that all the beauty we as human beings can know is born of the process of change which is one with the process of death." - seems to be asserting that death is inevitable as long as there's change. while this may be true _today_, it's not a given forever
+- 56 - more BS about why death gives meaning
+
+# ii: from this the poem springs
+- 60 - ws: "The collecting of poetry from one's experience as one goes along is not the same thing as merely writing poetry."
+- 71 - uncharitable margin note: depressed weirdoes say it's me and everything else. that's OK. the rest of us will create abundance
+- 72 - "The goal is to not only make peace with the limitations of the aesthetic object, but to exploit and even rejoice in them."
+- 72 - frank doggett: "never-resolved meaning, its possibility."
+- 73 - "The basic thing to understand is that the aesthetic object is only ever 'about' itself; it is not a bullet point supporting a thing or a concept external to it"
+- 73 - szarkowski: "a picture is about what it appears to be about."
+- 73 - "meanings are never resolved because 1) they are unique to each individual reader, and 2) as Stevens asserted, they must remain stubbornly potential, changing over time for any particular reader." - refusing reduction to allegory
+- 74 - t.s. eliot: "the difference between art and the event is always absolute."
+- 74 - "our judgment of the usefulness of the work must be limited ot how that text lives within us"
+- 78 - "one shouldn't think of nature as having a perfection of form. The world just is. Form is a human overlay."
+- 81 - pv: "What is "form for anyone else is "content" for me."
+- 81 - ws: "My first proposition is that the style of the poem and the poem itself are one." - form _is_ function
+- 81 - william h gass: "The swift sensuous intake is essential, since our response, as readers, must always run even with, if not ahead of, understanding."
+- 82 - stevens: "A mind that examines such a poem for its prose contents gets absolutely nothing from it." - eating an apple for the seeds
+- 84 - robert adams: "Beauty is, at least in part, always tied to subject matter."
+- 85 - "Amen to the refusal of poetry, or of _any_ aesthetic object, to function as a politics or an ideology. And I'm not even sure that it can. "It is difficult / to get the news from poems," Willliams famously wrote." - huzzah huzzah a blow against 'now more than ever'. reminds me of the photo conference where every artist talking about donald j trump president etc etc how can i make my art more political
+- 86 - christopher beha: "the ultimate aim of scaling back our political attention is not apathy but the creation of autonomous space for social, spiritual, and aesthetic experiences."
+- 86 - "politically motivated art-making generally enfeebles the principles and does worse to the object."
+- 88 - marilynne robinson on beauty vs politics in art: "I think this phenomenon is an effect of the utilitarian hostility to the humanities and to art, an attempt to repackage them, to give them some appearance of respectability."
+- 89 - beha: "Knowledge and beauty; pleasure and delight; the contemplation of truth, irrespective of its instrumental uses; the intimate encounter with another human consciousness offered by the best works of art – these are among the things that make life worth living. If we set them aside until we have made it safely through our present emergency, we will never return to them, because our present emergency will never be through."
+- 91 - forgetting makes us individuals - idk about this. it's not like we're platonic beings w/ full brains that forget stuff or need to re-remember it. we're pretty empty when we start.
+- 91 - siddhartha mukherjee: "The secret of learning is the systematic elimination of excess."
+- 92 - "continuous unwilled winnowing of experience is the reason we have art – or imagination – in the first place" - plainly wrong. what about folks w/ perfect recall? can't they be imaginative? e.g., von neumann?
+- 92 - "While the vast majority of our forgetting is passive, a vital subset of it is active; when we purposefully decide what to remember, we are involved in the cultivation of the self."
+- 93 - "The aesthetics of active forgetting necessarily implies an ethics."
+- 93 - lewis hyde: "a surfeit of detail clogs the flow of thought and must be winnowed so as to see the larger shapes of concept and abstraction." "Let us reclaim forgetting as a component of truth."
+- 94 - "A judiciously tended set of values supports the sort of open, flexible, and non-literal approach essential to the artist" - value ethics good 
+- 94 - allegedly tod papageorge: "If your pictures aren't good, you're not reading enough." - placing locus of achieved meaning in the cultivated mind of the maker of the aesthetic object, not in subject matter
+- 100 - "the poem can only be attained by an uncomfortable process of extraction"
+- 101 - o'connor: "If we admit, as we must, that appearance is not the same thing as reality, then we must give the artist the liberty to make certain rearrangements of nature if these will lead to greater depths of vision... This is not the kind of distortion that destroys; it is the kind that reveals, or should reveal."
+- 102 - intervention like o'connor says above can break photography though
+- 103 - "the aesthetic object is not the thing itself ... but rather a skewed aspect of the thing."
+- 104 - robinson on aesthetic: "While this is in some ways constraining, it establishes, the limits within which substantive invention is possible and more to the point, within which variation is meaningful."
+- 106 - author doesn't think there's any real "capital-F Form", universal organization. "any and all coherence is generated by the minds of human beings."
+- 106 - szarkowski: "beauty: that formal integrity which pays homage to the dream of meaningful life."
+- 107 - pv: "A poet's function – do not be startled by this remark – is not the experience the poetics state: that is a private affair. His function is to create it in others."
+- 107 - "if a text is not properly comprehended ... then the work fails"
+- 107 - "beauty is a human-made thing", shows up in "our perpetual form-making (i.e., anti-chaos) activities."
+- 108 - gustave flaubert: "May I be skinned alive before I ever turn my private feelings to literary account... It's one of my principles that one must never write down one's self. The artist must be present in his work like God in Creation, invisible and almighty, everywhere felt but nowhere seen."
+- 109 - personal relationship to subject matter is present in the artistic process, not to the product
+- 109 - "If the word 'impersonal' makes you uncomfortable, maybe 'suprapersonal' will be more to your liking."
+- 110 - "the failure to be one's own personal representative in one's work opens up the possibility of the made thing to exceed the mind of its author, and thus excel and endure."
+- 111 - george saunders: writer access "that 'suprapersonal wisdom' by technical means. That's what 'craft' is: a way to open ourselves up to the suprapersonal wisdom within us."
+- 112 - "one must weed out the personal with respect to the subject matter (which is the biographical and the boring)
+- 112 - wright morris: "We sense that it lies within the province of photography to make both a personal and impersonal statement."
+- 115 - dfw: "You've got to discipline yourself to talk out of the part of you that loves the thing, loves what you're working on... With having the discipline to talk out of the part of yourself that [can love] instead of the part that just wants to be loved."
+
+# iii: which echoes belong
+- 118 - jerry l thompson: photos offer convincing sense of presence of thing being photographer as well as artist's experience of the picture
+- 120 - "because the constraints of photography align so intimately with those that we all experience every moment, the photograph is absolutely unique in its ability to convey the human conundrum."
+- 123 - szarkowski - "Most pictures of mountains touch on such generic and inherited meanings, but if they are good pictures, they also have a specific and unique meaning, which has to do with the particular experience of an individual artists a particular place and time."
+- 124 - atget "knew that nothing was ultimately  secure, and he found the appropriate medium for manifesting that unsettled and unsettling knowledge."
+- 125 - "The factuality of the photograph is certainly its most defining feature."
+- 125 - "The photographer's lies are – on the surface level (an exceedingly important level) – the least fictitious of any maker's.
+- 126 - "the photograph is persuasive because it is constructed of the same stuff as everyday experience."
+- 126 - szarkoswki: "[The camera is] a perfect tool for visual exploration and discovery, but a rather clumsy one for realizing the inventions of pure imagination."
+- 127 - robert adams: "a hesitancy to theorize, a disinclination encouraged by the resistance offered from such a fully recorded specificity."
+- 127 - clement greenberg: "Because of the transparency of the medium, the difference between the extra-artistic, real-life meaning of things and their artistic meaning is even narrower in photography than it is in prose." - he thinks this is a bad thing, author thinks is good. i agree with the author. harder to bs, harder to have flights of fancy
+- 131 - robert adams: "It would indeed be marvelous... if the place itself, and not merely the pictures, were the work of art."
+- 134 - "pictures are misread when subject matter is either over-emphasized or over-valued, when the given eclipses the possible. This is because a photograph is the _articulation_ of something, and not the mere portrayal of it."
+- 140 - karl ove knausgard: "[Van Gogh] must be the least eclectic painter the world has ever seen, in the sense that the correspondence between what he had in him and what he painted was so great. It is as if nothing stood between him and his pictures."
+- 141 - vincent van goh: "I am an artist... It's self-evident that what that word implies is looking for something all the time without ever finding it in full. It is the opposite of saying, 'I know all about it. I've already found it.' As far as I'm concerned, the word means 'I am looking. I am hunting for it. I am deeply involved."
+- 141 - stevens: "It is the subject in poetry that releases the energy of the poet."
+- 147 - szarkowski: "The point is that for Harry Callahan photography has been a way of living – his way of meeting and making peace with the day." - like stephen shore saying living with conscious attention
+- 147 - "the desire for 'narrative,' particularly in books. Here again we're denying a unique advantage of our medium to satisfy a restrictive – and ultimately unnecessary – objective that lies outside of photography."
+- 148 - finally at this point some discussion of the audience. "What else brings comfort? Knowing that other people feel the same way."
+- 150 - donna tartt: "If a painting really works down in your heart and changes the way you see, and think, and feel, you don't think, "oh, I love this painting because it's universal.""I love this painting because it speaks to all mankind." That's not the reason anyone loves a piece of art. It's a secret whisper from the alleyway. _Psst, you. Hey kid. Yes, you._"
+- 150 - if a photo is poetic, "the possible (the _how_ or the _why_ of the picture) is more important than the given (the _what_)"
+- 150 - on a robert adams book w/ some photos of leaves: "Would one ever think of this book as information about leaves?"
+- 151 - yeats: "We make out of the quarrel with others, rhetoric, but of the quarrel with ourselves, poetry."
+- 157 - ws: "The more intensely one feels something that one likes the more one is willing for it to be what it is."
+- 159 - pierce says there's two categories of poems, transformation where poet subjugates the real, and decreation, where poet is subjugated by the real.
+- 160 - "decreation is not a normal everyday human function. The transformative is our default mode; it takes no effort at all to project the self onto the world."
+- 160 - mw: "It is a very active state of mind really, a very receptive state of mind, ready at an instant to grasp an image, yet with no image pre-formed in it at any time."
+- 161 - "Achieving anything resembling the decreative state is a chore, and revelations are fugitive. But worth the effort."
+- 161 - iris murdoch: "Our minds are continually active, fabricating an anxious, usually self-preoccupied, often falsifying veil which partially conceals the world." - reminiscent of konings's modern actor
+- 163 - "decreation is truly just a method, an active skill – a scrutinizing attitude with the goal of destabilizing one's established attitudes toward the world."
+- 165 - szarkowski: "Photography, if practiced with high seriousness, is a contest between a photographer and the presumptions of approximate and habitual seeing."
+- 170 - "The articulation of meaning, and not the mere identification of subject matter, is why photographs matter at all."
+- 173 - the way photos make imaginative correspondences is really just a specialized way all people know the world moment-to-moment
+- 174 - "Using the camera must thus be seen as a method of epistemological inquiry."
+- 175 - paul strand: camera is "the first and only important contribution, thus far, of science to the arts."
+- 176 - camera is like part of extended mind, "we are thinking _with_ and _through_ the camera"
+- 179 - "Choices of aspect ration or lens coverage or film type are not just things that impact how your prints look on the wall or in a book. They are the very structure of your mind when it meets the world with a camera."
+- 182 - ws on form in poetry: "You can do as you please, yet everything matters."
+- 183 - hj: "there is one point at which the moral sense and the artistic sense lie very near together... the deepest quality of a work of art will always be the quality of the mind of the producer."
+- 184 - "working productively with a camera demands an achieved equilibrium of mind and world."
+- 185 - mw: "The objectivity of the camera, used wrongly, is the very devil."
+
+# iv: the final yes
+- 187 - minor white: "I have discovered camera is both a way of life and not enough to live by."
+- 189 - thoreau: "The scenery, when it is truly seen, reacts on the life of the see. How to live. How to get the most life. How to extract its honey from the flower of the world."
+- 189 - herman melville: "...since there is an aesthetics in all things..."
+- 190 - "the humbling of one's self to the non-negotiables of our existence... results in a freedom of real consequence."
+- 190 - ralph ellison: "Life is to be lived, not controlled; and humanity is won by continuing to play in the face of certain defeat"
+- 190 - simone de beauvior: "The genuine man... bears responsibility for a world which is not the work of a strange power, but of himself, where his defeats are inscribed, and his victories as well."
+- 191 - "The path for the photographer is something like this: the long-term practice of working with the recalcitrant real gradually engenders a genuine respect for the meaningless, impersonal, transient, actual world _on its own terms_, and this reverence quite naturally grows into a longing for ... that which previously resisted (and which still resists) easy assimilation
+- 194 - "What function has the shutter other than to pause Being long enough for us to contemplate it"
+- 195 - murdoch: "Humility is not a peculiar habit of self-effacement, rather like having an inaudible voice, it is selfless respect for reality and one of the most difficult and central of all virtues."
+- 195 - flannery o'connor: "We hear a great deal about humility being required to lower oneself, but it requires an equal humility and real love of the truth to raise oneself and by hard labor to acquire higher standards."
+- 202 - "The camera calls upon us not only to be empiricists (to see the world as objectively as we can) but also to recognize that our objectivity necessarily manifests some level of idiosyntractic subjectivity – and then to be empiricists of that secondary realization as well.
+- 204- "Laying claim to the powers of the self to create meaning where none otherwise exists, and understanding that, counter-intuitively, these powers are even more astonishing when harnessed to and constrained by the actual."
+- 205 - nietzsche: "we must occasionally find pleasure in our folly, or we cannot continue to find pleasure in our wisdom."
+- 207 - camera limitations are like ours, so working with this machine is "effective way to turn chaotic experience into meaningful response – on other words, to learn to just get along in the world."
+- 207 - william mcewan asked robert adams what he was trying to accomplish with photography, adams: "I suppose to learn not to complain."
+- 208 - hj: "to woo combinations and inspirations into being by a depth and continuity of attention and mediation"
+- 209 - "Existential anxiety is at work in every form of spiritual life, since it opens us to the question of what we _ought_ to do with our time. Moreover, the anxious relation to finitude is not even ideally to be overcome."
+- 209 - oscar wilde: "All art is quite useless."
+- 212 - "the formal relationships we create, the result of myriad choices made in life and in art, are fictions."
+- 213 - gray: "Admitting that our lives are shaped by fictions may give a kind of freedom – possibly the only kind that human beings can attain." <- expectations in keynes
+- 216 - jb: "Freedom is not something that anyone can be given. Freedom is something people take, and people are as free as they want to be."
+- 216 - im: "Freedom ... is not an inconsequential chucking of one's weight about, it is the disciplined overcoming of self."
+- 216 - "The camera will not indulge our every desire; as a tool for thwarting solipsism, it is unmatched."
+- 218 - nietzsche said "Become who you are" not merely "be who you are"
+- 219 - value of poem or picture is not in its permanence. stevens: "It was not important that they survive."
+- 224 - robert adams: "No wonder instances of artistic success are costly and rare and impure. And deeply loved. And utterly out of the reach of most journalists."
+- 227 - vvg: "It is good to go on believing that everything is more miraculous than one can ever begin to understand, for that is the truth; it is good to remain sensitive and humble and tender-hearted even though one may have to hide one's feelings, as is often necessary."
+- 230 - martin hagglund: "Instead of trying to achieve a final peace of mind, we should own the existential anxiety of our freedom. If we had no anxiety about what to do with our time, we would not be able to discriminate between which activities are worthy and unworthy of who we take ourselves to be."
